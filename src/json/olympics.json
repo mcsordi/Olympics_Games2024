@@ -1,0 +1,730 @@
+[
+  {
+    "countryPlace": "1-Estados Unidos",
+    "acron": "USA",
+    "gold": 40,
+    "silver": 44,
+    "bronze": 42,
+    "total": 126
+  },
+  {
+    "countryPlace": "2-China",
+    "acron": "CHN",
+    "gold": 40,
+    "silver": 27,
+    "bronze": 24,
+    "total": 91
+  },
+  {
+    "countryPlace": "3-Japão",
+    "acron": "JPN",
+    "gold": 20,
+    "silver": 12,
+    "bronze": 13,
+    "total": 45
+  },
+  {
+    "countryPlace": "4-Austrália",
+    "acron": "AUS",
+    "gold": 18,
+    "silver": 19,
+    "bronze": 16,
+    "total": 53
+  },
+  {
+    "countryPlace": "5-França",
+    "acron": "FRA",
+    "gold": 16,
+    "silver": 26,
+    "bronze": 22,
+    "total": 64
+  },
+  {
+    "countryPlace": "6-Holanda",
+    "acron": "NED",
+    "gold": 15,
+    "silver": 7,
+    "bronze": 12,
+    "total": 34
+  },
+  {
+    "countryPlace": "7-Grã Bretanha",
+    "acron": "GBR",
+    "gold": 14,
+    "silver": 22,
+    "bronze": 29,
+    "total": 65
+  },
+  {
+    "countryPlace": "8-Coréia do Sul",
+    "acron": "KOR",
+    "gold": 13,
+    "silver": 9,
+    "bronze": 10,
+    "total": 32
+  },
+  {
+    "countryPlace": "9-Itália",
+    "acron": "ITA",
+    "gold": 12,
+    "silver": 13,
+    "bronze": 15,
+    "total": 40
+  },
+  {
+    "countryPlace": "10-Alemanha",
+    "acron": "GER",
+    "gold": 12,
+    "silver": 13,
+    "bronze": 8,
+    "total": 33
+  },
+  {
+    "countryPlace": "11-Nova Zelândia",
+    "acron": "NZL",
+    "gold": 10,
+    "silver": 7,
+    "bronze": 3,
+    "total": 20
+  },
+  {
+    "countryPlace": "12-Canadá",
+    "acron": "CAN",
+    "gold": 9,
+    "silver": 7,
+    "bronze": 11,
+    "total": 27
+  },
+  {
+    "countryPlace": "13-Uzbequistão",
+    "acron": "UZB",
+    "gold": 8,
+    "silver": 2,
+    "bronze": 3,
+    "total": 13
+  },
+  {
+    "countryPlace": "14-Hungria",
+    "acron": "HUN",
+    "gold": 6,
+    "silver": 7,
+    "bronze": 6,
+    "total": 19
+  },
+  {
+    "countryPlace": "15-Espanha",
+    "acron": "ESP",
+    "gold": 5,
+    "silver": 4,
+    "bronze": 9,
+    "total": 18
+  },
+  {
+    "countryPlace": "16-Suécia",
+    "acron": "SWE",
+    "gold": 4,
+    "silver": 4,
+    "bronze": 3,
+    "total": 11
+  },
+  {
+    "countryPlace": "17-Quênia",
+    "acron": "KEN",
+    "gold": 4,
+    "silver": 2,
+    "bronze": 5,
+    "total": 11
+  },
+  {
+    "countryPlace": "18-Noruega",
+    "acron": "NOR",
+    "gold": 4,
+    "silver": 1,
+    "bronze": 3,
+    "total": 8
+  },
+  {
+    "countryPlace": "19-Irlanda",
+    "acron": "IRL",
+    "gold": 4,
+    "silver": 0,
+    "bronze": 3,
+    "total": 7
+  },
+  {
+    "countryPlace": "20-Brasil",
+    "acron": "BRA",
+    "gold": 3,
+    "silver": 7,
+    "bronze": 10,
+    "total": 20
+  },
+  {
+    "countryPlace": "21-Irã",
+    "acron": "IRI",
+    "gold": 3,
+    "silver": 6,
+    "bronze": 3,
+    "total": 12
+  },
+  {
+    "countryPlace": "22-Ucrânia",
+    "acron": "UKR",
+    "gold": 3,
+    "silver": 5,
+    "bronze": 4,
+    "total": 12
+  },
+  {
+    "countryPlace": "23-Romênia",
+    "acron": "ROU",
+    "gold": 3,
+    "silver": 4,
+    "bronze": 2,
+    "total": 9
+  },
+  {
+    "countryPlace": "24-Geórgia",
+    "acron": "GEO",
+    "gold": 3,
+    "silver": 3,
+    "bronze": 1,
+    "total": 7
+  },
+  {
+    "countryPlace": "25-Bélgica",
+    "acron": "BEL",
+    "gold": 3,
+    "silver": 1,
+    "bronze": 6,
+    "total": 10
+  },
+  {
+    "countryPlace": "26-Bulgária",
+    "acron": "BUL",
+    "gold": 3,
+    "silver": 1,
+    "bronze": 3,
+    "total": 7
+  },
+  {
+    "countryPlace": "27-Sérvia",
+    "acron": "SRB",
+    "gold": 3,
+    "silver": 1,
+    "bronze": 1,
+    "total": 5
+  },
+  {
+    "countryPlace": "28-República Checa",
+    "acron": "CZE",
+    "gold": 3,
+    "silver": 0,
+    "bronze": 2,
+    "total": 5
+  },
+  {
+    "countryPlace": "29-Dinamarca",
+    "acron": "DEN",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 5,
+    "total": 9
+  },
+  {
+    "countryPlace": "30-Azerbaijão",
+    "acron": "AZE",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 3,
+    "total": 7
+  },
+  {
+    "countryPlace": "30-Croácia",
+    "acron": "CRO",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 3,
+    "total": 7
+  },
+  {
+    "countryPlace": "32-Cuba",
+    "acron": "CUB",
+    "gold": 2,
+    "silver": 1,
+    "bronze": 6,
+    "total": 9
+  },
+  {
+    "countryPlace": "33-Bahrein",
+    "acron": "BRN",
+    "gold": 2,
+    "silver": 1,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "countryPlace": "34-Eslovênia",
+    "acron": "SLO",
+    "gold": 2,
+    "silver": 1,
+    "bronze": 0,
+    "total": 3
+  },
+  {
+    "countryPlace": "35-Taipé Chinês",
+    "acron": "TPE",
+    "gold": 2,
+    "silver": 0,
+    "bronze": 5,
+    "total": 7
+  },
+  {
+    "countryPlace": "36-Áustria",
+    "acron": "AUT",
+    "gold": 2,
+    "silver": 0,
+    "bronze": 3,
+    "total": 5
+  },
+  {
+    "countryPlace": "37-Hong Kong, China",
+    "acron": "HKG",
+    "gold": 2,
+    "silver": 0,
+    "bronze": 2,
+    "total": 4
+  },
+  {
+    "countryPlace": "37-Filipinas",
+    "acron": "PHI",
+    "gold": 2,
+    "silver": 0,
+    "bronze": 2,
+    "total": 4
+  },
+  {
+    "countryPlace": "39-Argélia",
+    "acron": "ALG",
+    "gold": 2,
+    "silver": 0,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "countryPlace": "39-Indonésia",
+    "acron": "INA",
+    "gold": 2,
+    "silver": 0,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "countryPlace": "41-Israel",
+    "acron": "ISR",
+    "gold": 1,
+    "silver": 5,
+    "bronze": 1,
+    "total": 7
+  },
+  {
+    "countryPlace": "42-Polônia",
+    "acron": "POL",
+    "gold": 1,
+    "silver": 4,
+    "bronze": 5,
+    "total": 10
+  },
+  {
+    "countryPlace": "43-Cazaquistão",
+    "acron": "KAZ",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 3,
+    "total": 7
+  },
+  {
+    "countryPlace": "44-Jamaica",
+    "acron": "JAM",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 2,
+    "total": 6
+  },
+  {
+    "countryPlace": "44-África do Sul",
+    "acron": "RSA",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 2,
+    "total": 6
+  },
+  {
+    "countryPlace": "44-Tailândia",
+    "acron": "THA",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 2,
+    "total": 6
+  },
+  {
+    "countryPlace": "47-Etiópia",
+    "acron": "ETH",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 0,
+    "total": 4
+  },
+  {
+    "countryPlace": "48-Suíça",
+    "acron": "SUI",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 5,
+    "total": 8
+  },
+  {
+    "countryPlace": "49-Equador",
+    "acron": "ECU",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 2,
+    "total": 5
+  },
+  {
+    "countryPlace": "50-Portugal",
+    "acron": "POR",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "countryPlace": "51-Grécia",
+    "acron": "GRE",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 6,
+    "total": 8
+  },
+  {
+    "countryPlace": "52-Argentina",
+    "acron": "ARG",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "countryPlace": "52-Egito",
+    "acron": "EGY",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "countryPlace": "52-Tunísia",
+    "acron": "TUN",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "countryPlace": "55-Botsuana",
+    "acron": "BOT",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "countryPlace": "55-Chile",
+    "acron": "CHI",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "countryPlace": "55-Santa Lúcia",
+    "acron": "LCA",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "countryPlace": "55-Uganda",
+    "acron": "UGA",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "countryPlace": "59-República Dominicana",
+    "acron": "DOM",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 2,
+    "total": 3
+  },
+  {
+    "countryPlace": "60-Guatemala",
+    "acron": "GUA",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "countryPlace": "60-Marrocos",
+    "acron": "MAR",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "countryPlace": "62-Domínica",
+    "acron": "DMA",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "countryPlace": "62-Paquistão",
+    "acron": "PAK",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "countryPlace": "64-Turquia",
+    "acron": "TUR",
+    "gold": 0,
+    "silver": 3,
+    "bronze": 5,
+    "total": 8
+  },
+  {
+    "countryPlace": "65-México",
+    "acron": "MEX",
+    "gold": 0,
+    "silver": 3,
+    "bronze": 2,
+    "total": 5
+  },
+  {
+    "countryPlace": "66-Armênia",
+    "acron": "ARM",
+    "gold": 0,
+    "silver": 3,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "countryPlace": "66-Colômbia",
+    "acron": "COL",
+    "gold": 0,
+    "silver": 3,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "countryPlace": "68-Quirguistão",
+    "acron": "KGZ",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 4,
+    "total": 6
+  },
+  {
+    "countryPlace": "68-Coréia do Norte",
+    "acron": "PRK",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 4,
+    "total": 6
+  },
+  {
+    "countryPlace": "70-Lituânia",
+    "acron": "LTU",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 2,
+    "total": 4
+  },
+  {
+    "countryPlace": "71-Índia",
+    "acron": "IND",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 5,
+    "total": 6
+  },
+  {
+    "countryPlace": "72-República da Moldávia",
+    "acron": "MDA",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 3,
+    "total": 4
+  },
+  {
+    "countryPlace": "73-Kosovo",
+    "acron": "KOS",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "countryPlace": "74-Chipre",
+    "acron": "CYP",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "countryPlace": "74-Fiji",
+    "acron": "FIJ",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "countryPlace": "74-Jordânia",
+    "acron": "JOR",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "countryPlace": "74-Mongólia",
+    "acron": "MGL",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "countryPlace": "74-Panamá",
+    "acron": "PAN",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "countryPlace": "79-Tajiquistão",
+    "acron": "TJK",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 3,
+    "total": 3
+  },
+  {
+    "countryPlace": "80-Albânia",
+    "acron": "ALB",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "countryPlace": "80-Granada",
+    "acron": "GRN",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "countryPlace": "80-Malásia",
+    "acron": "MAS",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "countryPlace": "80-Porto Rico",
+    "acron": "PUR",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "countryPlace": "84-Costa do Marfim",
+    "acron": "CIV",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "countryPlace": "84-Cabo Verde",
+    "acron": "CPV",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "countryPlace": "84-Equipe Olímpica de Refugiados",
+    "acron": "EOR",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "countryPlace": "84-Peru",
+    "acron": "PER",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "countryPlace": "84-Catar",
+    "acron": "QAT",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "countryPlace": "84-Cingapura",
+    "acron": "SGP",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "countryPlace": "84-Eslováquia",
+    "acron": "SVK",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "countryPlace": "84-Zâmbia",
+    "acron": "ZAM",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1
+  }
+]

@@ -1,0 +1,3890 @@
+[
+  {
+    "sport": "Atletismo",
+    "country": "USA",
+    "gold ": 14,
+    "silver ": 11,
+    "bronze": 9,
+    "total": 34
+  },
+  {
+    "sport": "Basquete",
+    "country": "USA",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Basquete 3x3",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Breaking",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Slalom",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo BMX Freestyle",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Estrada",
+    "country": "USA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "USA",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Ciclismo Mountain Bike",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Escalada Esportiva",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Esgrima",
+    "country": "USA",
+    "gold ": 2,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "sport": "Futebol",
+    "country": "USA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "USA",
+    "gold ": 3,
+    "silver ": 1,
+    "bronze": 5,
+    "total": 9
+  },
+  {
+    "sport": "Golfe",
+    "country": "USA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Hipismo",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "USA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Luta",
+    "country": "USA",
+    "gold ": 2,
+    "silver ": 2,
+    "bronze": 3,
+    "total": 7
+  },
+  {
+    "sport": "Nado Artístico",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "USA",
+    "gold ": 8,
+    "silver ": 13,
+    "bronze": 7,
+    "total": 28
+  },
+  {
+    "sport": "Polo Aquático",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Remo",
+    "country": "USA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Rugby Sevens",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Saltos Ornamentais",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Skate",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Surfe",
+    "country": "USA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Tênis",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Tiro com Arco",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "USA",
+    "gold ": 1,
+    "silver ": 3,
+    "bronze": 1,
+    "total": 5
+  },
+  {
+    "sport": "Triatlo",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Vela",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vôlei",
+    "country": "USA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "CHN",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 2,
+    "total": 4
+  },
+  {
+    "sport": "Badminton",
+    "country": "CHN",
+    "gold ": 2,
+    "silver ": 3,
+    "bronze": 0,
+    "total": 5
+  },
+  {
+    "sport": "Boxe",
+    "country": "CHN",
+    "gold ": 3,
+    "silver ": 2,
+    "bronze": 0,
+    "total": 5
+  },
+  {
+    "sport": "Breaking",
+    "country": "CHN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "CHN",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Ciclismo BMX Freestyle",
+    "country": "CHN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Escalada Esportiva",
+    "country": "CHN",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "CHN",
+    "gold ": 2,
+    "silver ": 5,
+    "bronze": 2,
+    "total": 9
+  },
+  {
+    "sport": "Ginástica de Trampolim",
+    "country": "CHN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Ginástica Rítmica",
+    "country": "CHN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Golfe",
+    "country": "CHN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Hóquei sobre Grama",
+    "country": "CHN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "CHN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "CHN",
+    "gold ": 5,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 5
+  },
+  {
+    "sport": "Luta",
+    "country": "CHN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 4,
+    "total": 5
+  },
+  {
+    "sport": "Nado Artístico",
+    "country": "CHN",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Natação",
+    "country": "CHN",
+    "gold ": 2,
+    "silver ": 3,
+    "bronze": 7,
+    "total": 12
+  },
+  {
+    "sport": "Saltos Ornamentais",
+    "country": "CHN",
+    "gold ": 8,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 11
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "CHN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Tênis",
+    "country": "CHN",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Tênis de Mesa",
+    "country": "CHN",
+    "gold ": 5,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 6
+  },
+  {
+    "sport": "Tiro com Arco",
+    "country": "CHN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "CHN",
+    "gold ": 5,
+    "silver ": 2,
+    "bronze": 3,
+    "total": 10
+  },
+  {
+    "sport": "Atletismo",
+    "country": "JPN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Badminton",
+    "country": "JPN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Breaking",
+    "country": "JPN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Escalada Esportiva",
+    "country": "JPN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Esgrima",
+    "country": "JPN",
+    "gold ": 2,
+    "silver ": 1,
+    "bronze": 2,
+    "total": 5
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "JPN",
+    "gold ": 3,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "sport": "Golfe",
+    "country": "JPN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Hipismo",
+    "country": "JPN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "JPN",
+    "gold ": 3,
+    "silver ": 2,
+    "bronze": 3,
+    "total": 8
+  },
+  {
+    "sport": "Luta",
+    "country": "JPN",
+    "gold ": 8,
+    "silver ": 1,
+    "bronze": 2,
+    "total": 11
+  },
+  {
+    "sport": "Natação",
+    "country": "JPN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Pentatlo Moderno",
+    "country": "JPN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Saltos Ornamentais",
+    "country": "JPN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Skate",
+    "country": "JPN",
+    "gold ": 2,
+    "silver ": 2,
+    "bronze": 0,
+    "total": 4
+  },
+  {
+    "sport": "Tênis de Mesa",
+    "country": "JPN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Vela",
+    "country": "JPN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "AUS",
+    "gold ": 1,
+    "silver ": 2,
+    "bronze": 4,
+    "total": 7
+  },
+  {
+    "sport": "Basquete",
+    "country": "AUS",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "AUS",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Canoagem Slalom",
+    "country": "AUS",
+    "gold ": 3,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 3
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "AUS",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Ciclismo BMX Freestyle",
+    "country": "AUS",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo BMX Racing",
+    "country": "AUS",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Estrada",
+    "country": "AUS",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "AUS",
+    "gold ": 1,
+    "silver ": 2,
+    "bronze": 2,
+    "total": 5
+  },
+  {
+    "sport": "Hipismo",
+    "country": "AUS",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Maratona Aquática",
+    "country": "AUS",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "AUS",
+    "gold ": 7,
+    "silver ": 8,
+    "bronze": 3,
+    "total": 18
+  },
+  {
+    "sport": "Polo Aquático",
+    "country": "AUS",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Remo",
+    "country": "AUS",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Saltos Ornamentais",
+    "country": "AUS",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Skate",
+    "country": "AUS",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Surfe",
+    "country": "AUS",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Tênis",
+    "country": "AUS",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "AUS",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vela",
+    "country": "AUS",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Basquete",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Basquete 3x3",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Breaking",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Slalom",
+    "country": "FRA",
+    "gold ": 1,
+    "silver ": 2,
+    "bronze": 0,
+    "total": 3
+  },
+  {
+    "sport": "Ciclismo BMX Freestyle",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo BMX Racing",
+    "country": "FRA",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Ciclismo de Estrada",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "FRA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo Mountain Bike",
+    "country": "FRA",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Esgrima",
+    "country": "FRA",
+    "gold ": 1,
+    "silver ": 4,
+    "bronze": 2,
+    "total": 7
+  },
+  {
+    "sport": "Futebol",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Handebol",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Hipismo",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Judô",
+    "country": "FRA",
+    "gold ": 2,
+    "silver ": 2,
+    "bronze": 6,
+    "total": 10
+  },
+  {
+    "sport": "Natação",
+    "country": "FRA",
+    "gold ": 4,
+    "silver ": 1,
+    "bronze": 2,
+    "total": 7
+  },
+  {
+    "sport": "Pentatlo Moderno",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Rugby Sevens",
+    "country": "FRA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Surfe",
+    "country": "FRA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "FRA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Tênis de Mesa",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Tiro com Arco",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Triatlo",
+    "country": "FRA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Vela",
+    "country": "FRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Vôlei",
+    "country": "FRA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "NED",
+    "gold ": 2,
+    "silver ": 1,
+    "bronze": 3,
+    "total": 6
+  },
+  {
+    "sport": "Basquete 3x3",
+    "country": "NED",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo BMX Racing",
+    "country": "NED",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Estrada",
+    "country": "NED",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "NED",
+    "gold ": 3,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 5
+  },
+  {
+    "sport": "Hipismo",
+    "country": "NED",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Hóquei sobre Grama",
+    "country": "NED",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Maratona Aquática",
+    "country": "NED",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Nado Artístico",
+    "country": "NED",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "NED",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Polo Aquático",
+    "country": "NED",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Remo",
+    "country": "NED",
+    "gold ": 4,
+    "silver ": 3,
+    "bronze": 1,
+    "total": 8
+  },
+  {
+    "sport": "Vela",
+    "country": "NED",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 4
+  },
+  {
+    "sport": "Atletismo",
+    "country": "GBR",
+    "gold ": 1,
+    "silver ": 4,
+    "bronze": 5,
+    "total": 10
+  },
+  {
+    "sport": "Boxe",
+    "country": "GBR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Slalom",
+    "country": "GBR",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 2,
+    "total": 4
+  },
+  {
+    "sport": "Ciclismo BMX Freestyle",
+    "country": "GBR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Estrada",
+    "country": "GBR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "GBR",
+    "gold ": 1,
+    "silver ": 3,
+    "bronze": 4,
+    "total": 8
+  },
+  {
+    "sport": "Ciclismo Mountain Bike",
+    "country": "GBR",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Escalada Esportiva",
+    "country": "GBR",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "GBR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Ginástica de Trampolim",
+    "country": "GBR",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Golfe",
+    "country": "GBR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Hipismo",
+    "country": "GBR",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 3,
+    "total": 5
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "GBR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Nado Artístico",
+    "country": "GBR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "GBR",
+    "gold ": 1,
+    "silver ": 4,
+    "bronze": 0,
+    "total": 5
+  },
+  {
+    "sport": "Remo",
+    "country": "GBR",
+    "gold ": 3,
+    "silver ": 2,
+    "bronze": 3,
+    "total": 8
+  },
+  {
+    "sport": "Saltos Ornamentais",
+    "country": "GBR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 4,
+    "total": 5
+  },
+  {
+    "sport": "Skate",
+    "country": "GBR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "GBR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "GBR",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Triatlo",
+    "country": "GBR",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 3
+  },
+  {
+    "sport": "Vela",
+    "country": "GBR",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Badminton",
+    "country": "KOR",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Boxe",
+    "country": "KOR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Esgrima",
+    "country": "KOR",
+    "gold ": 2,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 3
+  },
+  {
+    "sport": "Judô",
+    "country": "KOR",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 3,
+    "total": 5
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "KOR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "KOR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Pentatlo Moderno",
+    "country": "KOR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "KOR",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Tênis de Mesa",
+    "country": "KOR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Tiro com Arco",
+    "country": "KOR",
+    "gold ": 5,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 7
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "KOR",
+    "gold ": 3,
+    "silver ": 3,
+    "bronze": 0,
+    "total": 6
+  },
+  {
+    "sport": "Atletismo",
+    "country": "ITA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 2,
+    "total": 3
+  },
+  {
+    "sport": "Canoagem Slalom",
+    "country": "ITA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "ITA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Estrada",
+    "country": "ITA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "ITA",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Esgrima",
+    "country": "ITA",
+    "gold ": 1,
+    "silver ": 3,
+    "bronze": 1,
+    "total": 5
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "ITA",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Ginástica Rítmica",
+    "country": "ITA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Judô",
+    "country": "ITA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "ITA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Maratona Aquática",
+    "country": "ITA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "ITA",
+    "gold ": 2,
+    "silver ": 1,
+    "bronze": 2,
+    "total": 5
+  },
+  {
+    "sport": "Pentatlo Moderno",
+    "country": "ITA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Remo",
+    "country": "ITA",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "ITA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Tênis",
+    "country": "ITA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "ITA",
+    "gold ": 1,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "sport": "Vela",
+    "country": "ITA",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Vôlei",
+    "country": "ITA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "GER",
+    "gold ": 1,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "sport": "Basquete 3x3",
+    "country": "GER",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "GER",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Slalom",
+    "country": "GER",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "GER",
+    "gold ": 2,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "GER",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Futebol",
+    "country": "GER",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica Rítmica",
+    "country": "GER",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Golfe",
+    "country": "GER",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Handebol",
+    "country": "GER",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Hipismo",
+    "country": "GER",
+    "gold ": 4,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 5
+  },
+  {
+    "sport": "Hóquei sobre Grama",
+    "country": "GER",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "GER",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Maratona Aquática",
+    "country": "GER",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "GER",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Remo",
+    "country": "GER",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Tiro com Arco",
+    "country": "GER",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Triatlo",
+    "country": "GER",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Vôlei de Praia",
+    "country": "GER",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "NZL",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Canoagem Slalom",
+    "country": "NZL",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "NZL",
+    "gold ": 3,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 3
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "NZL",
+    "gold ": 2,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 5
+  },
+  {
+    "sport": "Golfe",
+    "country": "NZL",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Remo",
+    "country": "NZL",
+    "gold ": 1,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "sport": "Rugby Sevens",
+    "country": "NZL",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Triatlo",
+    "country": "NZL",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Vela",
+    "country": "NZL",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "CAN",
+    "gold ": 3,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 5
+  },
+  {
+    "sport": "Boxe",
+    "country": "CAN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Breaking",
+    "country": "CAN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "CAN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Esgrima",
+    "country": "CAN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica de Trampolim",
+    "country": "CAN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "CAN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "CAN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "CAN",
+    "gold ": 3,
+    "silver ": 2,
+    "bronze": 3,
+    "total": 8
+  },
+  {
+    "sport": "Remo",
+    "country": "CAN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Rugby Sevens",
+    "country": "CAN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Saltos Ornamentais",
+    "country": "CAN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "CAN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Tênis",
+    "country": "CAN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vôlei de Praia",
+    "country": "CAN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "UZB",
+    "gold ": 5,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 5
+  },
+  {
+    "sport": "Judô",
+    "country": "UZB",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 3
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "UZB",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "UZB",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "UZB",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "HUN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "HUN",
+    "gold ": 0,
+    "silver ": 4,
+    "bronze": 3,
+    "total": 7
+  },
+  {
+    "sport": "Esgrima",
+    "country": "HUN",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Maratona Aquática",
+    "country": "HUN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Natação",
+    "country": "HUN",
+    "gold ": 2,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 3
+  },
+  {
+    "sport": "Pentatlo Moderno",
+    "country": "HUN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "HUN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "HUN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "ESP",
+    "gold ": 2,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "sport": "Basquete 3x3",
+    "country": "ESP",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "ESP",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Canoagem Slalom",
+    "country": "ESP",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "ESP",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Futebol",
+    "country": "ESP",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Handebol",
+    "country": "ESP",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "ESP",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Nado Artístico",
+    "country": "ESP",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Polo Aquático",
+    "country": "ESP",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Tênis",
+    "country": "ESP",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Vela",
+    "country": "ESP",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "SWE",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo Mountain Bike",
+    "country": "SWE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "SWE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "SWE",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Tênis de Mesa",
+    "country": "SWE",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "SWE",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Vela",
+    "country": "SWE",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Vôlei de Praia",
+    "country": "SWE",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "KEN",
+    "gold ": 4,
+    "silver ": 2,
+    "bronze": 5,
+    "total": 11
+  },
+  {
+    "sport": "Atletismo",
+    "country": "NOR",
+    "gold ": 2,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 3
+  },
+  {
+    "sport": "Handebol",
+    "country": "NOR",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "NOR",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "NOR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vela",
+    "country": "NOR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vôlei de Praia",
+    "country": "NOR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "IRL",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "IRL",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "IRL",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 3
+  },
+  {
+    "sport": "Remo",
+    "country": "IRL",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "BRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Boxe",
+    "country": "BRA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "BRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Futebol",
+    "country": "BRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "BRA",
+    "gold ": 1,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "sport": "Judô",
+    "country": "BRA",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 2,
+    "total": 4
+  },
+  {
+    "sport": "Skate",
+    "country": "BRA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Surfe",
+    "country": "BRA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "BRA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vôlei",
+    "country": "BRA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vôlei de Praia",
+    "country": "BRA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "IRI",
+    "gold ": 2,
+    "silver ": 4,
+    "bronze": 2,
+    "total": 8
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "IRI",
+    "gold ": 1,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 4
+  },
+  {
+    "sport": "Atletismo",
+    "country": "UKR",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 3
+  },
+  {
+    "sport": "Boxe",
+    "country": "UKR",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "UKR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Esgrima",
+    "country": "UKR",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "UKR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "UKR",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "UKR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "ROU",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "ROU",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "ROU",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Remo",
+    "country": "ROU",
+    "gold ": 2,
+    "silver ": 3,
+    "bronze": 0,
+    "total": 5
+  },
+  {
+    "sport": "Boxe",
+    "country": "GEO",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "GEO",
+    "gold ": 1,
+    "silver ": 2,
+    "bronze": 0,
+    "total": 3
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "GEO",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "GEO",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "BEL",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Ciclismo de Estrada",
+    "country": "BEL",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 4
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "BEL",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "BEL",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "BEL",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "BUL",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica Rítmica",
+    "country": "BUL",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "BUL",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Luta",
+    "country": "BUL",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "BUL",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Basquete ",
+    "country": "SRB",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Polo Aquático",
+    "country": "SRB",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "SRB",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Tênis",
+    "country": "SRB",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "SRB",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "CZE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "CZE",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Esgrima",
+    "country": "CZE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Tênis",
+    "country": "CZE",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Badminton",
+    "country": "DEN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "DEN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "DEN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Handebol",
+    "country": "DEN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Hipismo",
+    "country": "DEN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "DEN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "DEN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vela",
+    "country": "DEN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "AZE",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "AZE",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Luta",
+    "country": "AZE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 3,
+    "total": 3
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "AZE",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "CRO",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "CRO",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Polo Aquático",
+    "country": "CRO",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Remo",
+    "country": "CRO",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "CRO",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Tênis",
+    "country": "CRO",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "CRO",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "CUB",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "CUB",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "CUB",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 3,
+    "total": 5
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "CUB",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "BRN",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "BRN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "BRN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Escalada Esportiva",
+    "country": "SLO",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "SLO",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Vela",
+    "country": "SLO",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Badminton",
+    "country": "TPE",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "TPE",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 3
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "TPE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "TPE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "TPE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Escalada Esportiva",
+    "country": "AUT",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Judô",
+    "country": "AUT",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vela",
+    "country": "AUT",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Esgrima",
+    "country": "HKG",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Natação",
+    "country": "HKG",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Boxe",
+    "country": "PHI",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "PHI",
+    "gold ": 2,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "ALG",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "ALG",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "ALG",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Badminton",
+    "country": "INA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Escalada Esportiva",
+    "country": "INA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "INA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "ISR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica Rítmica",
+    "country": "ISR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "ISR",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Vela",
+    "country": "ISR",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "POL",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "POL",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem Slalom",
+    "country": "POL",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "POL",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Escalada Esportiva",
+    "country": "POL",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Esgrima",
+    "country": "POL",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Remo",
+    "country": "POL",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Tênis",
+    "country": "POL",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vôlei",
+    "country": "POL",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "KAZ",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "KAZ",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "KAZ",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Luta",
+    "country": "KAZ",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "KAZ",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "JAM",
+    "gold ": 1,
+    "silver ": 3,
+    "bronze": 2,
+    "total": 6
+  },
+  {
+    "sport": "Atletismo",
+    "country": "RSA",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Ciclismo Mountain Bike",
+    "country": "RSA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "RSA",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Rugby Sevens",
+    "country": "RSA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Badminton",
+    "country": "THA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "THA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "THA",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "THA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "ETH",
+    "gold ": 1,
+    "silver ": 3,
+    "bronze": 0,
+    "total": 4
+  },
+  {
+    "sport": "Ciclismo BMX Racing",
+    "country": "SUI",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Hipismo",
+    "country": "SUI",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "SUI",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Remo",
+    "country": "SUI",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "SUI",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Triatlo",
+    "country": "SUI",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Vôlei de Praia",
+    "country": "SUI",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "ECU",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "ECU",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Luta",
+    "country": "ECU",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "POR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Ciclismo de Pista",
+    "country": "POR",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Judô",
+    "country": "POR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "GRE",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "GRE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "GRE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "GRE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Natação",
+    "country": "GRE",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Remo",
+    "country": "GRE",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Ciclismo BMX Freestyle",
+    "country": "ARG",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Hóquei sobre Grama",
+    "country": "ARG",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vela",
+    "country": "ARG",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Esgrima",
+    "country": "EGY",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "EGY",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Pentatlo Moderno",
+    "country": "EGY",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Esgrima",
+    "country": "TUN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "TUN",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "BOT",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Luta",
+    "country": "CHI",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "CHI",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "LCA",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "UGA",
+    "gold ": 1,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "DOM",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "DOM",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "GUA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "MAR",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Futebol",
+    "country": "MAR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "DMA",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "PAK",
+    "gold ": 1,
+    "silver ": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "TUR",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 1,
+    "total": 3
+  },
+  {
+    "sport": "Luta",
+    "country": "TUR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "TUR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Tiro com Arco",
+    "country": "TUR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "TUR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "MEX",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "MEX",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Saltos Ornamentais",
+    "country": "MEX",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Tiro com Arco",
+    "country": "MEX",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "ARM",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "ARM",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "ARM",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Ginástica Artística",
+    "country": "COL",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Levantamento de Peso",
+    "country": "COL",
+    "gold ": 0,
+    "silver ": 2,
+    "bronze": 0,
+    "total": 2
+  },
+  {
+    "sport": "Luta",
+    "country": "COL",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "KGZ",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "KGZ",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 4,
+    "total": 5
+  },
+  {
+    "sport": "Boxe",
+    "country": "PRK",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "PRK",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Saltos Ornamentais",
+    "country": "PRK",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Tênis de Mesa",
+    "country": "PRK",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "LTU",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Basquete 3x3",
+    "country": "LTU",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Breaking",
+    "country": "LTU",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Remo",
+    "country": "LTU",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "IND",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Hóquei sobre Grama",
+    "country": "IND",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "IND",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Tiro Esportivo",
+    "country": "IND",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 3,
+    "total": 3
+  },
+  {
+    "sport": "Canoagem Velocidade",
+    "country": "MDA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "MDA",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Luta",
+    "country": "MDA",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "KOS",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "sport": "Vela",
+    "country": "CYP",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Rugby Sevens",
+    "country": "FIJ",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "JOR",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "MGL",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "PAN",
+    "gold ": 0,
+    "silver ": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "TJK",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Judô",
+    "country": "TJK",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Luta",
+    "country": "ALB",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "GRN",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Badminton",
+    "country": "MAS",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 2,
+    "total": 2
+  },
+  {
+    "sport": "Atletismo",
+    "country": "PUR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Luta",
+    "country": "PUR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Taekwondo",
+    "country": "CIV",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "CPV",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Boxe",
+    "country": "EOR",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vela",
+    "country": "PER",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "QAT",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Vela",
+    "country": "SGP",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Canoagem  Slalom",
+    "country": "SVK",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  },
+  {
+    "sport": "Atletismo",
+    "country": "ZAM",
+    "gold ": 0,
+    "silver ": 0,
+    "bronze": 1,
+    "total": 1
+  }
+]
