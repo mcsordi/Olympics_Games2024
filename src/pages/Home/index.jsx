@@ -1,43 +1,44 @@
-import countries from "../../json/olympics.json";
 import Card from "../../Components/Card";
 import LineUpMedal from "../../Components/LineUpMedal";
+import olympics from "../../json/olympics.json";
+
 function Home() {
+  const countryOrPlace = (element, position) => {
+    return element.split("-")[position];
+  };
   return (
     <div
-      className="my-10 mt-28 h-full w-full flex-row items-center justify-center 
+      className=" mb-3 mt-28 h-full w-full flex-row items-center justify-center 
    flex flex-wrap comp:flex-row comp:mt-8"
     >
       <LineUpMedal display={"flex"} />
-      {countries.map((el, idx) => {
-        const nameCountries = el.countryPlace.split("-");
-        const margin = idx % 2 == 0 ? "comp:ml-10" : "comp:mr-10";
-        const marginText = idx % 2 == 0 ? "comp:ml-20" : "comp:mr-20";
-        const justify =
-          idx % 2 == 0 ? "comp:justify-start" : "comp:justify-end";
-        const disp = idx % 2 == 0 ? "comp:flex-row" : "comp:flex-row-reverse";
-        const medals = idx % 2 == 0 ? "comp:flex-row" : "comp:flex-row-reverse";
+      {olympics.map((country, index) => {
+        const evenFlexCard = index % 2 == 1 ? "comp:flex-row-reverse" : "";
+        const evenFlexText = index % 2 == 1 ? " comp:justify-end" : "";
         return (
           <Card
-            key={idx}
-            nameCountry={nameCountries[1]}
-            country={el.acron}
-            place={nameCountries[0]}
-            gold={el.gold}
-            silver={el.silver}
-            bronze={el.bronze}
-            total={el.total}
-            alias={el.acron}
-            display={disp}
-            margin={margin}
-            textMargin={marginText}
-            justify={justify}
-            medals={medals}
+            key={index}
+            textCard={countryOrPlace(country.countryPlace, 1)}
+            imageCard={`../../../src/images/${country.acron}`}
+            countryPlace={`${countryOrPlace(country.countryPlace, 0)}`}
+            flexPlace={`flex`}
+            flexTextCard={`${evenFlexText} hidden`}
+            flexAlias={`comp:hidden`}
+            displayCard={evenFlexCard}
+            flexExpandIcons={`hidden`}
+            gold={country.gold}
+            silver={country.silver}
+            bronze={country.bronze}
+            total={country.total}
+            flexMedals={`${evenFlexCard}`}
+            alias={country.acron}
           />
         );
       })}
       <Card
-        hidden={"comp:bg-primary-100 border-0 hidden comp:flex"}
-        margin={"hidden"}
+        flexImageCard={`hidden`}
+        flexExpandIcons={`hidden`}
+        hiddenCard={"hidden comp:flex border-0 comp:bg-primary-100"}
       />
     </div>
   );

@@ -6,7 +6,9 @@ import Search from "../src/pages/Search";
 import Sports from "../src/pages/Sports";
 import Athletes from "../src/pages/Athletes";
 import Layout from "../src/pages/Layout";
+
 import "./index.css";
+import IconContext from "../src/context/context";
 
 const router = createBrowserRouter([
   {
@@ -25,5 +27,11 @@ const router = createBrowserRouter([
 ]);
 
 createRoot(document.getElementById("root")).render(
-  <StrictMode>{<RouterProvider router={router} />}</StrictMode>
+  <StrictMode>
+    {
+      <IconContext>
+        <RouterProvider router={router} />
+      </IconContext>
+    }
+  </StrictMode>
 );
