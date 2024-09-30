@@ -14,6 +14,7 @@ function Header() {
         <main className="w-full flex gap-5  justify-between items-center flex-row sm:justify-around mP:justify-around  ">
           <section className="flex items-center m-1 gap-5  mP:m-0">
             <div className="h-14  w-12 bg-center bg-no-repeat bg-logo bg-cover z-50 "></div>
+
             <span className="text-sm font-normal  hidden  font-fira  text-white sm:flex sm:text-sm lg:text-xl sC:text-xl md:text-lg">
               Olimpíadas 2024
             </span>

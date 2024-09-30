@@ -8,11 +8,13 @@ import Layout from "../src/pages/Layout";
 
 import "./index.css";
 import IconContext from "../src/context/context";
+import Page404 from "./pages/Page404";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Layout />,
+    errorElement: <Page404 />,
     children: [
       {
         path: "/",
