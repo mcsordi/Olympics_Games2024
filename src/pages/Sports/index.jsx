@@ -21,7 +21,7 @@ function Sports() {
           flexImageCard={"h-16 w-16"}
           key={idx}
           textCard={sport}
-          imageCard={`../../../src/images/logos/${sport.toLocaleUpperCase()}`}
+          imageCard={`./images/logos/${sport.toLocaleUpperCase()}`}
           flexExpandIcons={`text-2xl`}
           flexTextCard={`flex text-sm flex-wrap max-w-12 smart460:text-lg smart460:max-w-full  
             smart460:flex-nowrap w-16 sm:text-xl comp:max-w-full`}
@@ -49,7 +49,7 @@ function Sports() {
                   flexAlias={`sm:hidden`}
                   textCard={country.nameCountry}
                   alias={country.country}
-                  imageCard={`../../../src/images/countries/${country.country}`}
+                  imageCard={`./images/countries/${country.country}`}
                   configICon={`hidden`}
                   gold={country.gold}
                   silver={country.silver}

@@ -19,7 +19,7 @@ function Home() {
           <Card
             key={index}
             textCard={countryOrPlace(country.countryPlace, 1)}
-            imageCard={`../../../src/images/countries/${country.acron}`}
+            imageCard={`./images/countries/${country.acron}`}
             countryPlace={`${countryOrPlace(country.countryPlace, 0)}`}
             flexPlace={`flex`}
             flexTextCard={`${evenFlexText} hidden`}

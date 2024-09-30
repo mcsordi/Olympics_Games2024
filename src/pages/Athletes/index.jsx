@@ -45,7 +45,7 @@ function Athletes() {
                 textCard={sport}
                 flexTextCard={`items-center justify-center flex w-full text-sm sm:text-xl comp:text-xl`}
                 configICon={`hidden`}
-                imageCard={`../../../src/images/logos/${sport.toLocaleUpperCase()}`}
+                imageCard={`./images/logos/${sport.toLocaleUpperCase()}`}
                 displayMedal={`hidden`}
               />
             );
@@ -60,7 +60,7 @@ function Athletes() {
               hiddenCard={`h-24 mP:min-w-full min-h-20  700:h-20 comp:w-10/12`}
               textCard={athlete.category}
               flexTextCard={`w-12 text-sm 850:text-base`}
-              imageCard={`../../../src/images/countries/${athlete.county}`}
+              imageCard={`./images/countries/${athlete.county}`}
               configICon={`hidden`}
               flexAlias={"text-neutral-500 gap-0 flex text-sm 850:text-base "}
               alias={athlete.athlete}
