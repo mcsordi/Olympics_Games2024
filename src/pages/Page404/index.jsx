@@ -9,7 +9,7 @@ function Page404() {
       <Container>
         <img
           className="w-11/12  smart460:w-8/12 700:w-6/12 comp:w-4/12 "
-          src="../../../src/pages/Page404/olympicsLogo.png"
+          src="./olympicsLogo.png"
         />
       </Container>
       <Footer />
