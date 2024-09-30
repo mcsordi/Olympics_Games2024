@@ -1,0 +1,8313 @@
+[
+  {
+    "category": "100m masculino",
+    "athlete": "Noah LYLES",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "400m masculino",
+    "athlete": "Quincy HALL",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "1.500m masculino",
+    "athlete": "Cole HOCKER",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "110m com barreiras masculino",
+    "athlete": "Grant HOLLOWAY",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "400m com barreiras masculino",
+    "athlete": "Rai BENJAMIN",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Arremesso de peso masculino",
+    "athlete": "Ryan CROUSER",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x400m masculino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "200m feminino",
+    "athlete": "Gabrielle THOMAS",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "100m com barreiras feminino",
+    "athlete": "Masai RUSSELL",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "400m com barreiras feminino",
+    "athlete": "Sydney McLAUGHLIN-LEVRONE",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto em distância feminino",
+    "athlete": "Tara DAVIS-WOODHALL",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Lançamento de disco feminino",
+    "athlete": "Valarie ALLMAN",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x100m feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x400m feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "200m masculino",
+    "athlete": "Kenneth BEDNAREK",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "3.000m com obstáculos masculino",
+    "athlete": "Kenneth ROOKS",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "110m com barreiras masculino",
+    "athlete": "Daniel ROBERTS",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto em altura masculino",
+    "athlete": "Shelby McEWEN",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto com vara masculino",
+    "athlete": "Sam KENDRICKS",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Arremesso de peso masculino",
+    "athlete": "Joe KOVACS",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "100m feminino",
+    "athlete": "Sha'carri RICHARDSON",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "400m com barreiras feminino",
+    "athlete": "Anna COCKRELL",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto com vara feminino",
+    "athlete": "Katie MOON",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Lançamento de martelo feminino",
+    "athlete": "Annette Nneka ECHIKUNWOKE",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4 x 400m Misto",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "100m masculino",
+    "athlete": "Fred KERLEY",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "200m masculino",
+    "athlete": "Noah LYLES",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "1.500m masculino",
+    "athlete": "Yared NUGUSE",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "5.000m masculino",
+    "athlete": "Grant FISHER",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "10.000m masculino",
+    "athlete": "Grant FISHER",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "100m feminino",
+    "athlete": "Melissa JEFFERSON",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "200m feminino",
+    "athlete": "Brittany BROWN",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto em distância feminino",
+    "athlete": "Jasmine MOORE",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto triplo feminino",
+    "athlete": "Jasmine MOORE",
+    "county": "USA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Basquete",
+    "medal": "gold",
+    "upperSport": "BASQUETE"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Basquete",
+    "medal": "gold",
+    "upperSport": "BASQUETE"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Basquete 3x3",
+    "medal": "bronze",
+    "upperSport": "BASQUETE 3X3"
+  },
+  {
+    "category": "71kg Masculino",
+    "athlete": "Omari JONES",
+    "county": "USA",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "B-Boys",
+    "athlete": "VICTOR",
+    "county": "USA",
+    "sport": "Breaking",
+    "medal": "bronze",
+    "upperSport": "BREAKING"
+  },
+  {
+    "category": "Canoa Individual Feminina",
+    "athlete": "Evy LEIBFARTH",
+    "county": "USA",
+    "sport": "Canoagem Slalom",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "C1 200m feminino",
+    "athlete": "Nevin HARRISON",
+    "county": "USA",
+    "sport": "Canoagem de de Velocidade",
+    "medal": "silver",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Park Feminino",
+    "athlete": "Perris BENEGAS",
+    "county": "USA",
+    "sport": "Ciclismo BMX Freestyle",
+    "medal": "silver",
+    "upperSport": "CICLISMO BMX FREESTYLE"
+  },
+  {
+    "category": "Corrida de estrada feminina",
+    "athlete": "Kristen FAULKNER",
+    "county": "USA",
+    "sport": "Ciclismo de Estrada",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Contrarrelógio individual feminino",
+    "athlete": "Chloe DYGERT",
+    "county": "USA",
+    "sport": "Ciclismo de Estrada",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Perseguição por equipes feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Omnium feminino",
+    "athlete": "Jennifer VALENTE",
+    "county": "USA",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Cross-country feminino",
+    "athlete": "Haley BATTEN",
+    "county": "USA",
+    "sport": "Ciclismo Mountain Bike",
+    "medal": "silver",
+    "upperSport": "CICLISMO MOUNTAIN BIKE"
+  },
+  {
+    "category": "Boulder e Lead Feminino",
+    "athlete": "Brooke RABOUTOU",
+    "county": "USA",
+    "sport": "Escalada ",
+    "medal": "silver",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "Speed Masculino",
+    "athlete": "Sam WATSON",
+    "county": "USA",
+    "sport": "Escalada ",
+    "medal": "bronze",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "Florete individual feminino",
+    "athlete": "Lee KIEFER",
+    "county": "USA",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Florete por Equipes Feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Florete individual feminino",
+    "athlete": "Lauren SCRUGGS",
+    "county": "USA",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Florete individual masculino",
+    "athlete": "Nick ITKIN",
+    "county": "USA",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Futebol",
+    "medal": "gold",
+    "upperSport": "FUTEBOL"
+  },
+  {
+    "category": "Equipes feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Individual geral feminino",
+    "athlete": "Simone BILES",
+    "county": "USA",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Salto feminino",
+    "athlete": "Simone BILES",
+    "county": "USA",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Solo feminino",
+    "athlete": "Simone BILES",
+    "county": "USA",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Equipes masculino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Cavalo com alças masculino",
+    "athlete": "Stephen NEDOROSCIK",
+    "county": "USA",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Individual geral feminino",
+    "athlete": "Sunisa LEE",
+    "county": "USA",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Salto feminino",
+    "athlete": "Jade CAREY",
+    "county": "USA",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Barras assimétricas femininas",
+    "athlete": "Sunisa LEE",
+    "county": "USA",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Jogo por tacadas individual masculino",
+    "athlete": "Scottie SCHEFFLER",
+    "county": "USA",
+    "sport": "Golfe",
+    "medal": "gold",
+    "upperSport": "GOLFE"
+  },
+  {
+    "category": "Saltos por equipes",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Hipismo",
+    "medal": "silver",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "71kg Feminino",
+    "athlete": "Olivia REEVES",
+    "county": "USA",
+    "sport": "Levantamento de Peso",
+    "medal": "gold",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "61kg Masculino",
+    "athlete": "Hampton MORRIS",
+    "county": "USA",
+    "sport": "Levantamento de Peso",
+    "medal": "bronze",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Luta livre feminina 50kg",
+    "athlete": "Sarah Ann HILDEBRANDT",
+    "county": "USA",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 68kg",
+    "athlete": "Amit ELOR",
+    "county": "USA",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminino 76kg",
+    "athlete": "Kennedy Alexis BLADES",
+    "county": "USA",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 57kg",
+    "athlete": "Spencer Richard LEE",
+    "county": "USA",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 57kg",
+    "athlete": "Helen Louise MAROULIS",
+    "county": "USA",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 74kg",
+    "athlete": "Kyle Douglas DAKE",
+    "county": "USA",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 86kg",
+    "athlete": "Aaron Marquel BROOKS",
+    "county": "USA",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Equipe",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Nado Artístico",
+    "medal": "silver",
+    "upperSport": "NADO ARTÍSTICO"
+  },
+  {
+    "category": "800m livre feminino",
+    "athlete": "Katie LEDECKY",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "1500m livre feminino",
+    "athlete": "Katie LEDECKY",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m peito feminino",
+    "athlete": "Kate DOUGLASS",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m borboleta feminino",
+    "athlete": "Torri HUSKE",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m medley feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "1.500m livre masculino",
+    "athlete": "Bobby FINKE",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m livre masculino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m medley misto",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m livre feminino",
+    "athlete": "Torri HUSKE",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m costas feminino",
+    "athlete": "Regan SMITH",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m costas feminino",
+    "athlete": "Regan SMITH",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m borboleta feminino",
+    "athlete": "Gretchen WALSH",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m borboleta feminino",
+    "athlete": "Regan SMITH",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m medley feminino",
+    "athlete": "Kate DOUGLASS",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "400m medley feminino",
+    "athlete": "Katie GRIMES",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m livre feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x200m livre feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "800m livre masculino",
+    "athlete": "Bobby FINKE",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m peito masculino",
+    "athlete": "Nic FINK",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x200m livre masculino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m medley masculino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "400m livre feminino",
+    "athlete": "Katie LEDECKY",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "800m livre feminino",
+    "athlete": "Paige MADDEN",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m costas feminino",
+    "athlete": "Katharine BERKOFF",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "400m medley feminino",
+    "athlete": "Emma WEYANT",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m livre masculino",
+    "athlete": "Luke HOBSON",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m costas masculino",
+    "athlete": "Ryan MURPHY",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "400m medley masculino",
+    "athlete": "Carson FOSTER",
+    "county": "USA",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Polo Aquático",
+    "medal": "bronze",
+    "upperSport": "POLO AQUÁTICO"
+  },
+  {
+    "category": "Quatro sem masculino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Oito com masculino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Rugby Sevens",
+    "medal": "bronze",
+    "upperSport": "RUGBY SEVENS"
+  },
+  {
+    "category": "Trampolim 3m sincronizado feminino",
+    "athlete": "BACON/COOK",
+    "county": "USA",
+    "sport": "Saltos Ornamentais",
+    "medal": "silver",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Street Masculino",
+    "athlete": "Jagger EATON",
+    "county": "USA",
+    "sport": "Skate",
+    "medal": "silver",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Park Masculino",
+    "athlete": "Tom SCHAAR",
+    "county": "USA",
+    "sport": "Skate",
+    "medal": "silver",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Street Masculino",
+    "athlete": "Nyjah HUSTON",
+    "county": "USA",
+    "sport": "Skate",
+    "medal": "bronze",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Caroline MARKS",
+    "county": "USA",
+    "sport": "Surfe",
+    "medal": "gold",
+    "upperSport": "SURFE"
+  },
+  {
+    "category": "67kg feminino",
+    "athlete": "Kristina TEACHOUT",
+    "county": "USA",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Duplas masculinas",
+    "athlete": "KRAJICEK/RAM",
+    "county": "USA",
+    "sport": "Tênis",
+    "medal": "silver",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Duplas masculinas",
+    "athlete": "FRITZ/PAUL",
+    "county": "USA",
+    "sport": "Tênis",
+    "medal": "bronze",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Individual masculino",
+    "athlete": "Brady ELLISON",
+    "county": "USA",
+    "sport": "Tiro com Arco",
+    "medal": "silver",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Equipe Mista",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Tiro com Arco",
+    "medal": "bronze",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Skeet masculino",
+    "athlete": "Vincent HANCOCK",
+    "county": "USA",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Skeet masculino",
+    "athlete": "Conner Lynn PRINCE",
+    "county": "USA",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Carabina 3 posições 50m feminino",
+    "athlete": "Sagen MADDALENA",
+    "county": "USA",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Skeet equipes mistas",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Skeet Feminino",
+    "athlete": "Austen Jewell SMITH",
+    "county": "USA",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Revezamento Misto",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Triatlo",
+    "medal": "silver",
+    "upperSport": "TRIATLO"
+  },
+  {
+    "category": "Skiff Masculino",
+    "athlete": "BARROWS/HENKEN",
+    "county": "USA",
+    "sport": "Vela",
+    "medal": "bronze",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Vôlei",
+    "medal": "silver",
+    "upperSport": "VÔLEI"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Estados Unidos",
+    "county": "USA",
+    "sport": "Vôlei",
+    "medal": "bronze",
+    "upperSport": "VÔLEI"
+  },
+  {
+    "category": "Marcha Atlética 20 km feminina",
+    "athlete": "YANG Jiayu",
+    "county": "CHN",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Lançamento de disco feminino",
+    "athlete": "FENG Bin",
+    "county": "CHN",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Arremesso do peso feminino",
+    "athlete": "SONG Jiayuan",
+    "county": "CHN",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Lançamento de martelo feminino",
+    "athlete": "ZHAO Jie",
+    "county": "CHN",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Duplas femininas",
+    "athlete": "CHEN/JIA",
+    "county": "CHN",
+    "sport": "Badminton",
+    "medal": "gold",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "Duplas mistas",
+    "athlete": "ZHENG/HUANG",
+    "county": "CHN",
+    "sport": "Badminton",
+    "medal": "gold",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "Simples feminino",
+    "athlete": "HE Bing Jiao",
+    "county": "CHN",
+    "sport": "Badminton",
+    "medal": "silver",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "Duplas masculinas",
+    "athlete": "LIANG/WANG",
+    "county": "CHN",
+    "sport": "Badminton",
+    "medal": "silver",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "Duplas femininas",
+    "athlete": "LIU/TAN",
+    "county": "CHN",
+    "sport": "Badminton",
+    "medal": "silver",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "50kg Feminino",
+    "athlete": "WU Yu",
+    "county": "CHN",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "54kg Feminino",
+    "athlete": "CHANG Yuan",
+    "county": "CHN",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "75kg Feminino",
+    "athlete": "LI Qian",
+    "county": "CHN",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "60kg Feminino",
+    "athlete": "YANG Wenlu",
+    "county": "CHN",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "66kg Feminino",
+    "athlete": "YANG Liu",
+    "county": "CHN",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "B-Girls",
+    "athlete": 671,
+    "county": "CHN",
+    "sport": "Breaking",
+    "medal": "bronze",
+    "upperSport": "BREAKING"
+  },
+  {
+    "category": "C2 500m masculino",
+    "athlete": "LIU/JI",
+    "county": "CHN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "gold",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "C2 500m feminino",
+    "athlete": "XU/SUN",
+    "county": "CHN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "gold",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Park Feminino",
+    "athlete": "DENG Yawen",
+    "county": "CHN",
+    "sport": "Ciclismo BMX Freestyle",
+    "medal": "gold",
+    "upperSport": "CICLISMO BMX FREESTYLE"
+  },
+  {
+    "category": "Speed Feminino",
+    "athlete": "DENG Lijuan",
+    "county": "CHN",
+    "sport": "Escalada",
+    "medal": "silver",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "Speed Masculino",
+    "athlete": "WU Peng",
+    "county": "CHN",
+    "sport": "Escalada",
+    "medal": "silver",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "Argolas masculinas",
+    "athlete": "LIU Yang",
+    "county": "CHN",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Barras paralelas masculinas",
+    "athlete": "ZOU Jingyuan",
+    "county": "CHN",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Equipes masculino",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Individual geral masculino",
+    "athlete": "ZHANG Boheng",
+    "county": "CHN",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Argolas masculinas",
+    "athlete": "ZOU Jingyuan",
+    "county": "CHN",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Barras assimétricas femininas",
+    "athlete": "QIU Qiyuan",
+    "county": "CHN",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Trave feminina",
+    "athlete": "ZHOU Yaqin",
+    "county": "CHN",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Individual geral masculino",
+    "athlete": "XIAO Ruoteng",
+    "county": "CHN",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Barra fixa masculina",
+    "athlete": "ZHANG Boheng",
+    "county": "CHN",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "WANG Zisai",
+    "county": "CHN",
+    "sport": "Ginástica de Trampolim",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA DE TRAMPOLIM"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "YAN Langyu",
+    "county": "CHN",
+    "sport": "Ginástica de Trampolim",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA DE TRAMPOLIM"
+  },
+  {
+    "category": "Competição por equipes geral",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Ginástica Rítmica",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA RÍTMICA"
+  },
+  {
+    "category": "Jogo por tacadas individual feminino",
+    "athlete": "LIN Xiyu Janet",
+    "county": "CHN",
+    "sport": "Golfe",
+    "medal": "gold",
+    "upperSport": "GOLFE"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Hóquei sobre Grama",
+    "medal": "silver",
+    "upperSport": "HÓQUEI SOBRE GRAMA"
+  },
+  {
+    "category": "78kg feminino",
+    "athlete": "MA Zhenzhao",
+    "county": "CHN",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "49kg Feminino",
+    "athlete": "HOU Zhihui",
+    "county": "CHN",
+    "sport": "Levantamento de Peso",
+    "medal": "gold",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "59kg Feminino",
+    "athlete": "LUO Shifang",
+    "county": "CHN",
+    "sport": "Levantamento de Peso",
+    "medal": "gold",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "81kg Feminino",
+    "athlete": "LI Wenwen",
+    "county": "CHN",
+    "sport": "Levantamento de Peso",
+    "medal": "gold",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "61kg Masculino",
+    "athlete": "LI Fabin",
+    "county": "CHN",
+    "sport": "Levantamento de Peso",
+    "medal": "gold",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "102kg Masculino",
+    "athlete": "LIU Huanhua",
+    "county": "CHN",
+    "sport": "Levantamento de Peso",
+    "medal": "gold",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 60kg",
+    "athlete": "CAO Liguo",
+    "county": "CHN",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 130kg",
+    "athlete": "MENG Lingzhe",
+    "county": "CHN",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 50kg",
+    "athlete": "FENG Ziqi",
+    "county": "CHN",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 53kg",
+    "athlete": "PANG Qianyu",
+    "county": "CHN",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 57kg",
+    "athlete": "HONG Kexin",
+    "county": "CHN",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Dueto",
+    "athlete": "WANG/WANG",
+    "county": "CHN",
+    "sport": "Nado Artístico",
+    "medal": "gold",
+    "upperSport": "NADO ARTÍSTICO"
+  },
+  {
+    "category": "Equipe",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Nado Artístico",
+    "medal": "gold",
+    "upperSport": "NADO ARTÍSTICO"
+  },
+  {
+    "category": "100m livre masculino",
+    "athlete": "PAN Zhanle",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m medley masculino",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m peito feminino",
+    "athlete": "TANG Qianting",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m costas masculino",
+    "athlete": "XU Jiayu",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m medley misto",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "50m livre feminino",
+    "athlete": "ZHANG Yufei",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m borboleta feminino",
+    "athlete": "ZHANG Yufei",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m borboleta feminino",
+    "athlete": "ZHANG Yufei",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m livre feminino",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x200m livre feminino",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m medley feminino",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m medley masculino",
+    "athlete": "WANG Shun",
+    "county": "CHN",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Trampolim 3m feminino",
+    "athlete": "CHEN Yiwen",
+    "county": "CHN",
+    "sport": "Saltos Ornamentais",
+    "medal": "gold",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Plataforma 10m feminino",
+    "athlete": "QUAN Hongchan",
+    "county": "CHN",
+    "sport": "Saltos Ornamentais",
+    "medal": "gold",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Trampolim 3m sincronizado feminino",
+    "athlete": "CHANG/CHEN",
+    "county": "CHN",
+    "sport": "Saltos Ornamentais",
+    "medal": "gold",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Plataforma 10m sincronizada feminino",
+    "athlete": "CHEN/QUAN",
+    "county": "CHN",
+    "sport": "Saltos Ornamentais",
+    "medal": "gold",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Trampolim 3m masculino",
+    "athlete": "XIE Siyi",
+    "county": "CHN",
+    "sport": "Saltos Ornamentais",
+    "medal": "gold",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Plataforma 10m masculino",
+    "athlete": "CAO Yuan",
+    "county": "CHN",
+    "sport": "Saltos Ornamentais",
+    "medal": "gold",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Trampolim 3m sincronizado masculino",
+    "athlete": "LONG/WANG",
+    "county": "CHN",
+    "sport": "Saltos Ornamentais",
+    "medal": "gold",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Plataforma 10m sincronizada masculino",
+    "athlete": "LIAN/YANG",
+    "county": "CHN",
+    "sport": "Saltos Ornamentais",
+    "medal": "gold",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Plataforma 10m feminino",
+    "athlete": "CHEN Yuxi",
+    "county": "CHN",
+    "sport": "Saltos Ornamentais",
+    "medal": "silver",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Trampolim 3m masculino",
+    "athlete": "WANG Zongyuan",
+    "county": "CHN",
+    "sport": "Saltos Ornamentais",
+    "medal": "silver",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Trampolim 3m feminino",
+    "athlete": "CHANG Yani",
+    "county": "CHN",
+    "sport": "Saltos Ornamentais",
+    "medal": "bronze",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "49kg feminino",
+    "athlete": "GUO Qing",
+    "county": "CHN",
+    "sport": "Taekwondo",
+    "medal": "silver",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "68kg masculino",
+    "athlete": "LIANG Yushuai",
+    "county": "CHN",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Simples feminino",
+    "athlete": "ZHENG Qinwen",
+    "county": "CHN",
+    "sport": "Tênis",
+    "medal": "gold",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Duplas mistas",
+    "athlete": "WANG/ZHANG",
+    "county": "CHN",
+    "sport": "Tênis",
+    "medal": "silver",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Simples masculino",
+    "athlete": "FAN Zhendong",
+    "county": "CHN",
+    "sport": "Tênis de Mesa",
+    "medal": "gold",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Simples feminino",
+    "athlete": "CHEN Meng",
+    "county": "CHN",
+    "sport": "Tênis de Mesa",
+    "medal": "gold",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Duplas mistas",
+    "athlete": "WANG/SUN",
+    "county": "CHN",
+    "sport": "Tênis de Mesa",
+    "medal": "gold",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Equipes masculinas",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Tênis de Mesa",
+    "medal": "gold",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Equipes femininas",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Tênis de Mesa",
+    "medal": "gold",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Simples feminino",
+    "athlete": "SUN Yingsha",
+    "county": "CHN",
+    "sport": "Tênis de Mesa",
+    "medal": "silver",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Equipes femininas",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Tiro com Arco",
+    "medal": "silver",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Carabina de ar 10m masculino",
+    "athlete": "SHENG Lihao",
+    "county": "CHN",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Carabina três posições 50m masculino",
+    "athlete": "LIU Yukun",
+    "county": "CHN",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Pistola de ar 10m masculino",
+    "athlete": "XIE Yu",
+    "county": "CHN",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Pistola de tiro rápido 25m masculino",
+    "athlete": "LI Yuehong",
+    "county": "CHN",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Carabina de ar 10m equipes mistas",
+    "athlete": "China ",
+    "county": "CHN",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Fossa olímpica masculino",
+    "athlete": "QI Ying",
+    "county": "CHN",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Carabina de ar 10m feminino",
+    "athlete": "HUANG Yuting",
+    "county": "CHN",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Pistola de tiro rápido 25m masculino",
+    "athlete": "WANG Xinjie",
+    "county": "CHN",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Carabina 3 posições 50m feminino",
+    "athlete": "ZHANG Qiongyue",
+    "county": "CHN",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Skeet equipes mistas",
+    "athlete": "China",
+    "county": "CHN",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Lançamento de dardo feminino",
+    "athlete": "KITAGUCHI Haruka",
+    "county": "JPN",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Duplas femininas",
+    "athlete": "MATSUYAMA/SHIDA",
+    "county": "JPN",
+    "sport": "Badminton",
+    "medal": "bronze",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "Duplas mistas",
+    "athlete": "WATANABE/HIGASHINO",
+    "county": "JPN",
+    "sport": "Badminton",
+    "medal": "bronze",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "B-Girls",
+    "athlete": "AMI",
+    "county": "JPN",
+    "sport": "Breaking",
+    "medal": "gold",
+    "upperSport": "BREAKING"
+  },
+  {
+    "category": "Boulder e Lead Masculino",
+    "athlete": "ANRAKU Sorato",
+    "county": "JPN",
+    "sport": "Escalada",
+    "medal": "silver",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "Espada individual masculina",
+    "athlete": "KANO Koki",
+    "county": "JPN",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Florete por equipes masculino",
+    "athlete": "Japan",
+    "county": "JPN",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Espada por equipes masculina",
+    "athlete": "Japan",
+    "county": "JPN",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Florete por Equipes Feminino",
+    "athlete": "Japan",
+    "county": "JPN",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Sabre por equipes feminino",
+    "athlete": "Japan",
+    "county": "JPN",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Equipes masculino",
+    "athlete": "Japan",
+    "county": "JPN",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Individual geral masculino",
+    "athlete": "OKA Shinnosuke",
+    "county": "JPN",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Barra fixa masculina",
+    "athlete": "OKA Shinnosuke",
+    "county": "JPN",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Barras paralelas masculinas",
+    "athlete": "OKA Shinnosuke",
+    "county": "JPN",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Jogo por tacadas individual masculino",
+    "athlete": "MATSUYAMA Hideki",
+    "county": "JPN",
+    "sport": "Golfe",
+    "medal": "bronze",
+    "upperSport": "GOLFE"
+  },
+  {
+    "category": "CCE por Equipes",
+    "athlete": "Japan",
+    "county": "JPN",
+    "sport": "Hipismo",
+    "medal": "bronze",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Até 48kg feminino",
+    "athlete": "TSUNODA Natsumi",
+    "county": "JPN",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "66kg masculino",
+    "athlete": "ABE Hifumi",
+    "county": "JPN",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "81kg masculino",
+    "athlete": "NAGASE Takanori",
+    "county": "JPN",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "90kg masculino",
+    "athlete": "MURAO Sanshiro",
+    "county": "JPN",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Equipe Mista",
+    "athlete": "Japan",
+    "county": "JPN",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "57kg feminino",
+    "athlete": "FUNAKUBO Haruka",
+    "county": "JPN",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "60kg masculino",
+    "athlete": "NAGAYAMA Ryuju",
+    "county": "JPN",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "73kg masculino",
+    "athlete": "HASHIMOTO Soichi",
+    "county": "JPN",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 60kg",
+    "athlete": "FUMITA Kenichiro",
+    "county": "JPN",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 77kg",
+    "athlete": "KUSAKA Nao",
+    "county": "JPN",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 53kg",
+    "athlete": "FUJINAMI Akari",
+    "county": "JPN",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 57kg",
+    "athlete": "SAKURAI Tsugumi",
+    "county": "JPN",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 62kg",
+    "athlete": "MOTOKI Sakura",
+    "county": "JPN",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminino 76kg",
+    "athlete": "KAGAMI Yuka",
+    "county": "JPN",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 57kg",
+    "athlete": "HIGUCHI Rei",
+    "county": "JPN",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 65kg",
+    "athlete": "KIYOOKA Kotaro",
+    "county": "JPN",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 74kg",
+    "athlete": "TAKATANI Daichi",
+    "county": "JPN",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 50kg",
+    "athlete": "SUSAKI Yui",
+    "county": "JPN",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 68kg",
+    "athlete": "OZAKI Nonoka",
+    "county": "JPN",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "400m medley masculino",
+    "athlete": "MATSUSHITA Tomoyuki",
+    "county": "JPN",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Individual masculino",
+    "athlete": "SATO Taishu",
+    "county": "JPN",
+    "sport": "Pentatlo Moderno",
+    "medal": "silver",
+    "upperSport": "PENTATLO MODERNO"
+  },
+  {
+    "category": "Plataforma 10m masculino",
+    "athlete": "TAMAI Rikuto",
+    "county": "JPN",
+    "sport": "Saltos Ornamentais",
+    "medal": "silver",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Street Feminino",
+    "athlete": "YOSHIZAWA Coco",
+    "county": "JPN",
+    "sport": "Skate",
+    "medal": "gold",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Street Masculino",
+    "athlete": "HORIGOME Yuto",
+    "county": "JPN",
+    "sport": "Skate",
+    "medal": "gold",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Street Feminino",
+    "athlete": "AKAMA Liz",
+    "county": "JPN",
+    "sport": "Skate",
+    "medal": "silver",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Park Feminino",
+    "athlete": "HIRAKI Cocona",
+    "county": "JPN",
+    "sport": "Skate",
+    "medal": "silver",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Equipes femininas",
+    "athlete": "Japan",
+    "county": "JPN",
+    "sport": "Tênis de Mesa",
+    "medal": "silver",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Simples feminino",
+    "athlete": "Hina HAYATA",
+    "county": "JPN",
+    "sport": "Tênis de Mesa",
+    "medal": "bronze",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Dinghy Misto",
+    "athlete": "OKADA/YOSHIOKA",
+    "county": "JPN",
+    "sport": "Vela",
+    "medal": "silver",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Salto com vara feminino",
+    "athlete": "Nina KENNEDY",
+    "county": "AUS",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "1.500m feminino",
+    "athlete": "Jessica HULL",
+    "county": "AUS",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto em altura feminino",
+    "athlete": "Nicola OLYSLAGERS",
+    "county": "AUS",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Lançamento de disco masculino",
+    "athlete": "Matthew DENNY",
+    "county": "AUS",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto em altura feminino",
+    "athlete": "Eleanor PATTERSON",
+    "county": "AUS",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Marcha Atlética 20 km feminina",
+    "athlete": "Jemima MONTAG",
+    "county": "AUS",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "M. de Marcha Atlética Rev. Misto",
+    "athlete": "COWLEY R/MONTAG J",
+    "county": "AUS",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Australia",
+    "county": "AUS",
+    "sport": "Basquete",
+    "medal": "bronze",
+    "upperSport": "BASQUETE"
+  },
+  {
+    "category": "57kg Masculino",
+    "athlete": "Charlie SENIOR",
+    "county": "AUS",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "75kg Feminino",
+    "athlete": "Caitlin PARKER",
+    "county": "AUS",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Caiaque Individual Feminino",
+    "athlete": "Jessica FOX",
+    "county": "AUS",
+    "sport": "Canoagem Slalom",
+    "medal": "gold",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "Canoa Individual Feminina",
+    "athlete": "Jessica FOX",
+    "county": "AUS",
+    "sport": "Canoagem Slalom",
+    "medal": "gold",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "Caiaque Cross Feminino",
+    "athlete": "Noemie FOX",
+    "county": "AUS",
+    "sport": "Canoagem Slalom",
+    "medal": "gold",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "K4 500m masculino",
+    "athlete": "Australia",
+    "county": "AUS",
+    "sport": "Canoagem de Velocidade",
+    "medal": "silver",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K2 500m masculino",
+    "athlete": "van der WE/GREEN",
+    "county": "AUS",
+    "sport": "Canoagem de Velocidade",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Park Feminino",
+    "athlete": "Natalya DIEHM",
+    "county": "AUS",
+    "sport": "Ciclismo BMX Freestyle",
+    "medal": "bronze",
+    "upperSport": "CICLISMO BMX FREESTYLE"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Saya SAKAKIBARA",
+    "county": "AUS",
+    "sport": "Ciclismo BMX Racing",
+    "medal": "gold",
+    "upperSport": "CICLISMO BMX RACING"
+  },
+  {
+    "category": "Contrarrelógio individual feminino",
+    "athlete": "Grace BROWN",
+    "county": "AUS",
+    "sport": "Ciclismo de Estrada",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Perseguição por equipes masculino",
+    "athlete": "Australia",
+    "county": "AUS",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Sprint masculino",
+    "athlete": "Matthew RICHARDSON",
+    "county": "AUS",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Keirin masculino",
+    "athlete": "Matthew RICHARDSON",
+    "county": "AUS",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Sprint por equipes masculino",
+    "athlete": "Australia",
+    "county": "AUS",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Keirin masculino",
+    "athlete": "Matthew GLAETZER",
+    "county": "AUS",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "CCE Individual",
+    "athlete": "Christopher BURTON",
+    "county": "AUS",
+    "sport": "Hipismo",
+    "medal": "silver",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "10km feminino",
+    "athlete": "Moesha JOHNSON",
+    "county": "AUS",
+    "sport": "Maratona Aquática",
+    "medal": "silver",
+    "upperSport": "MARATONA AQUÁTICA"
+  },
+  {
+    "category": "200m livre feminino",
+    "athlete": "Mollie O'CALLAGHAN",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "400m livre feminino",
+    "athlete": "Ariarne TITMUS",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m costas feminino",
+    "athlete": "Kaylee McKEOWN",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m costas feminino",
+    "athlete": "Kaylee McKEOWN",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m livre feminino",
+    "athlete": "Australia",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x200m livre feminino",
+    "athlete": "Australia",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "50m livre masculino",
+    "athlete": "Cameron McEVOY",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "50m livre feminino",
+    "athlete": "Meg HARRIS",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m livre feminino",
+    "athlete": "Ariarne TITMUS",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "800m livre feminino",
+    "athlete": "Ariarne TITMUS",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m medley feminino",
+    "athlete": "Australia",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m livre masculino",
+    "athlete": "Kyle CHALMERS",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "400m livre masculino",
+    "athlete": "Elijah WINNINGTON",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m peito masculino",
+    "athlete": "Zac STUBBLETY-COOK",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m livre masculino",
+    "athlete": "Australia",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m medley feminino",
+    "athlete": "Kaylee McKEOWN",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x200m livre masculino",
+    "athlete": "Australia",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m medley misto",
+    "athlete": "Australia",
+    "county": "AUS",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Australia",
+    "county": "AUS",
+    "sport": "Polo Aquático",
+    "medal": "silver",
+    "upperSport": "POLO AQUÁTICO"
+  },
+  {
+    "category": "Dois sem feminino",
+    "athlete": "MORRISON/McINTYRE",
+    "county": "AUS",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Trampolim 3m feminino",
+    "athlete": "Maddison KEENEY",
+    "county": "AUS",
+    "sport": "Saltos Ornamentais",
+    "medal": "silver",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Park Feminino",
+    "athlete": "Arisa TREW",
+    "county": "AUS",
+    "sport": "Skate",
+    "medal": "gold",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Park Masculino",
+    "athlete": "Keegan PALMER",
+    "county": "AUS",
+    "sport": "Skate",
+    "medal": "gold",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Jack ROBINSON",
+    "county": "AUS",
+    "sport": "Surfe",
+    "medal": "silver",
+    "upperSport": "SURFE"
+  },
+  {
+    "category": "Duplas masculinas",
+    "athlete": "EBDEN/PEERS",
+    "county": "AUS",
+    "sport": "Tênis",
+    "medal": "gold",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Fossa olímpica feminina",
+    "athlete": "Penny SMITH",
+    "county": "AUS",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Dinghy Masculino",
+    "athlete": "Matt WEARN",
+    "county": "AUS",
+    "sport": "Vela",
+    "medal": "gold",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Windsurf Masculino",
+    "athlete": "Grae MORRIS",
+    "county": "AUS",
+    "sport": "Vela",
+    "medal": "silver",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "100m com barreiras feminino",
+    "athlete": "Cyrena SAMBA-MAYELA",
+    "county": "FRA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Basquete",
+    "medal": "silver",
+    "upperSport": "BASQUETE"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Basquete",
+    "medal": "silver",
+    "upperSport": "BASQUETE"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Basquete 3x3",
+    "medal": "silver",
+    "upperSport": "BASQUETE 3X3"
+  },
+  {
+    "category": "51kg Masculino",
+    "athlete": "Billal BENNAMA",
+    "county": "FRA",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "63.5kg Masculino",
+    "athlete": "Sofiane OUMIHA",
+    "county": "FRA",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "92kg Masculino",
+    "athlete": "Djamili-Dini ABOUDOU MOINDZE",
+    "county": "FRA",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "B-Boys",
+    "athlete": "DANY DANN",
+    "county": "FRA",
+    "sport": "Breaking",
+    "medal": "silver",
+    "upperSport": "BREAKING"
+  },
+  {
+    "category": "Canoa Individual Masculina",
+    "athlete": "Nicolas GESTIN",
+    "county": "FRA",
+    "sport": "Canoagem Slalom",
+    "medal": "gold",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "Caiaque Individual Masculino",
+    "athlete": "Titouan CASTRYCK",
+    "county": "FRA",
+    "sport": "Canoagem Slalom",
+    "medal": "silver",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "Caiaque Cross Feminino",
+    "athlete": "Angele HUG",
+    "county": "FRA",
+    "sport": "Canoagem Slalom",
+    "medal": "silver",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "Park Masculino",
+    "athlete": "Anthony JEANJEAN",
+    "county": "FRA",
+    "sport": "Ciclismo BMX Freestyle",
+    "medal": "silver",
+    "upperSport": "CICLISMO BMX FREESTYLE"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Joris DAUDET",
+    "county": "FRA",
+    "sport": "Ciclismo BMX Racing",
+    "medal": "gold",
+    "upperSport": "CICLISMO BMX RACING"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Sylvain ANDRE",
+    "county": "FRA",
+    "sport": "Ciclismo BMX Racing",
+    "medal": "silver",
+    "upperSport": "CICLISMO BMX RACING"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Romain MAHIEU",
+    "county": "FRA",
+    "sport": "Ciclismo BMX Racing",
+    "medal": "bronze",
+    "upperSport": "CICLISMO BMX RACING"
+  },
+  {
+    "category": "Corrida de estrada masculina",
+    "athlete": "Valentin MADOUAS",
+    "county": "FRA",
+    "sport": "Ciclismo de Estrada",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Corrida de estrada masculina",
+    "athlete": "Christophe LAPORTE",
+    "county": "FRA",
+    "sport": "Ciclismo de Estrada",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Omnium masculino",
+    "athlete": "Benjamin THOMAS",
+    "county": "FRA",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Cross-country feminino",
+    "athlete": "Pauline FERRAND PREVOT",
+    "county": "FRA",
+    "sport": "Ciclismo Mountain Bike",
+    "medal": "gold",
+    "upperSport": "CICLISMO MOUNTAIN BIKE"
+  },
+  {
+    "category": "Cross-country masculino",
+    "athlete": "Victor KORETZKY",
+    "county": "FRA",
+    "sport": "Ciclismo Mountain Bike",
+    "medal": "silver",
+    "upperSport": "CICLISMO MOUNTAIN BIKE"
+  },
+  {
+    "category": "Sabre individual feminino",
+    "athlete": "Manon APITHY-BRUNET",
+    "county": "FRA",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Espada individual feminina",
+    "athlete": "Auriane MALLO-BRETON",
+    "county": "FRA",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Sabre individual feminino",
+    "athlete": "Sara BALZER",
+    "county": "FRA",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Espada individual masculina",
+    "athlete": "Yannick BOREL",
+    "county": "FRA",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Espada por equipes feminina",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Florete por equipes masculino",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Sabre por Equipes Masculino",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Futebol",
+    "medal": "silver",
+    "upperSport": "FUTEBOL"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Handebol",
+    "medal": "silver",
+    "upperSport": "HANDEBOL"
+  },
+  {
+    "category": "CCE por Equipes",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Hipismo",
+    "medal": "silver",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Saltos por equipes",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Hipismo",
+    "medal": "bronze",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "100kg masculino",
+    "athlete": "Teddy RINER",
+    "county": "FRA",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Equipe Mista",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "60kg masculino",
+    "athlete": "Luka MKHEIDZE",
+    "county": "FRA",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "73kg masculino",
+    "athlete": "Joan-Benjamin GABA",
+    "county": "FRA",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Até 48kg feminino",
+    "athlete": "Shirine BOUKLI",
+    "county": "FRA",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "52kg feminino",
+    "athlete": "Amandine BUCHARD",
+    "county": "FRA",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "57kg feminino",
+    "athlete": "Sarah Leonie CYSIQUE",
+    "county": "FRA",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "63kg feminino",
+    "athlete": "Clarisse AGBEGNENOU",
+    "county": "FRA",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "78kg feminino",
+    "athlete": "Romane DICKO",
+    "county": "FRA",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "90kg masculino",
+    "athlete": "Maxime-Gael NGAYAP HAMBOU",
+    "county": "FRA",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "200m peito masculino",
+    "athlete": "Leon MARCHAND",
+    "county": "FRA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m borboleta masculino",
+    "athlete": "Leon MARCHAND",
+    "county": "FRA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m medley masculino",
+    "athlete": "Leon MARCHAND",
+    "county": "FRA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "400m medley masculino",
+    "athlete": "Leon MARCHAND",
+    "county": "FRA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "1500m livre feminino",
+    "athlete": "Anastasiia KIRPICHNIKOVA",
+    "county": "FRA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "50m livre masculino",
+    "athlete": "Florent MANAUDOU",
+    "county": "FRA",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m medley masculino",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Individual feminino",
+    "athlete": "Elodie CLOUVEL",
+    "county": "FRA",
+    "sport": "Pentatlo Moderno",
+    "medal": "silver",
+    "upperSport": "PENTATLO MODERNO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Pentatlo Moderno",
+    "medal": "gold",
+    "upperSport": "PENTATLO MODERNO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Kauli VAAST",
+    "county": "FRA",
+    "sport": "Surfe",
+    "medal": "gold",
+    "upperSport": "SURFE"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Johanne DEFAY",
+    "county": "FRA",
+    "sport": "Surfe",
+    "medal": "silver",
+    "upperSport": "SURFE"
+  },
+  {
+    "category": "67kg feminino",
+    "athlete": "Althea LAURIN",
+    "county": "FRA",
+    "sport": "Taekwondo",
+    "medal": "gold",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "58kg masculino",
+    "athlete": "Cyrian RAVET",
+    "county": "FRA",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Simples masculino",
+    "athlete": "Felix LEBRUN",
+    "county": "FRA",
+    "sport": "Tênis de Mesa",
+    "medal": "bronze",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Equipes masculinas",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Tênis de Mesa",
+    "medal": "bronze",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Equipes masculinas",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Tiro com Arco",
+    "medal": "silver",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Individual feminino",
+    "athlete": "Lisa BARBELIN",
+    "county": "FRA",
+    "sport": "Tiro com Arco",
+    "medal": "bronze",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Pistola 25m feminino",
+    "athlete": "Camille JEDRZEJEWSKI",
+    "county": "FRA",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Individual Feminino",
+    "athlete": "Cassandre BEAUGRAND",
+    "county": "FRA",
+    "sport": "Triatlo",
+    "medal": "gold",
+    "upperSport": "TRIATLO"
+  },
+  {
+    "category": "Individual Masculino",
+    "athlete": "Leo BERGERE",
+    "county": "FRA",
+    "sport": "Triatlo",
+    "medal": "bronze",
+    "upperSport": "TRIATLO"
+  },
+  {
+    "category": "Kite Feminino",
+    "athlete": "Lauriane NOLOT",
+    "county": "FRA",
+    "sport": "Vela",
+    "medal": "silver",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Skiff Feminino",
+    "athlete": "STEYAERT/PICON",
+    "county": "FRA",
+    "sport": "Vela",
+    "medal": "bronze",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "France",
+    "county": "FRA",
+    "sport": "Vôlei",
+    "medal": "gold",
+    "upperSport": "VÔLEI"
+  },
+  {
+    "category": "Maratona feminina",
+    "athlete": "Sifan HASSAN",
+    "county": "NED",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4 x 400m Misto",
+    "athlete": "Netherlands",
+    "county": "NED",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x400m feminino",
+    "athlete": "Netherlands",
+    "county": "NED",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "5.000m feminino",
+    "athlete": "Sifan HASSAN",
+    "county": "NED",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "10.000m feminino",
+    "athlete": "Sifan HASSAN",
+    "county": "NED",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "400m com barreiras feminino",
+    "athlete": "Femke BOL",
+    "county": "NED",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Netherlands",
+    "county": "NED",
+    "sport": "Basquete 3x3",
+    "medal": "gold",
+    "upperSport": "BASQUETE 3X3"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Manon VEENSTRA",
+    "county": "NED",
+    "sport": "Ciclismo BMX Racing",
+    "medal": "silver",
+    "upperSport": "CICLISMO BMX RACING"
+  },
+  {
+    "category": "Corrida de estrada feminina",
+    "athlete": "Marianne VOS",
+    "county": "NED",
+    "sport": "Ciclismo de Estrada",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Sprint por equipes masculino",
+    "athlete": "Netherlands",
+    "county": "NED",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Sprint masculino",
+    "athlete": "Harrie LAVREYSEN",
+    "county": "NED",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Keirin masculino",
+    "athlete": "Harrie LAVREYSEN",
+    "county": "NED",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Keirin feminino",
+    "athlete": "Hetty van de WOUW",
+    "county": "NED",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Madison Feminino",
+    "athlete": "van BELLE/van der DUI",
+    "county": "NED",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Saltos individual",
+    "athlete": "Maikel van der VLEUTEN",
+    "county": "NED",
+    "sport": "Hipismo",
+    "medal": "bronze",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Netherlands",
+    "county": "NED",
+    "sport": "Hóquei sobre Grama",
+    "medal": "gold",
+    "upperSport": "HÓQUEI SOBRE GRAMA"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Netherlands",
+    "county": "NED",
+    "sport": "Hóquei sobre Grama",
+    "medal": "gold",
+    "upperSport": "HÓQUEI SOBRE GRAMA"
+  },
+  {
+    "category": "10km feminino",
+    "athlete": "Sharon van ROUWENDAAL",
+    "county": "NED",
+    "sport": "Maratona Aquática",
+    "medal": "gold",
+    "upperSport": "MARATONA AQUÁTICA"
+  },
+  {
+    "category": "Dueto",
+    "athlete": "de BROUWER/de BROUWER",
+    "county": "NED",
+    "sport": "Nado Artístico",
+    "medal": "bronze",
+    "upperSport": "NADO ARTÍSTICO"
+  },
+  {
+    "category": "200m peito feminino",
+    "athlete": "Tes SCHOUTEN",
+    "county": "NED",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m peito masculino",
+    "athlete": "Caspar CORBEAU",
+    "county": "NED",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Netherlands",
+    "county": "NED",
+    "sport": "Polo Aquático",
+    "medal": "bronze",
+    "upperSport": "POLO AQUÁTICO"
+  },
+  {
+    "category": "Dois sem feminino",
+    "athlete": "CLEVERING/MEESTER",
+    "county": "NED",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Quatro sem feminino",
+    "athlete": "Netherlands",
+    "county": "NED",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff simples feminino",
+    "athlete": "Karolien FLORIJN",
+    "county": "NED",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff quádruplo masculino",
+    "athlete": "Netherlands",
+    "county": "NED",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff duplo masculino",
+    "athlete": "TWELLAAR/BROENINK",
+    "county": "NED",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff quádruplo feminino",
+    "athlete": "Netherlands",
+    "county": "NED",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Oito com masculino",
+    "athlete": "Netherlands",
+    "county": "NED",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff simples masculino",
+    "athlete": "Simon van DORP",
+    "county": "NED",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Dinghy Feminino",
+    "athlete": "Marit BOUWMEESTER",
+    "county": "NED",
+    "sport": "Vela",
+    "medal": "gold",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Skiff Feminino",
+    "athlete": "AANHOLT/DUETZ",
+    "county": "NED",
+    "sport": "Vela",
+    "medal": "gold",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Windsurf Masculino",
+    "athlete": "Luuc van OPZEELAND",
+    "county": "NED",
+    "sport": "Vela",
+    "medal": "bronze",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Kite Feminino",
+    "athlete": "Annelous LAMMERTS",
+    "county": "NED",
+    "sport": "Vela",
+    "medal": "bronze",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "800m feminino",
+    "athlete": "Keely HODGKINSON",
+    "county": "GBR",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "400m masculino",
+    "athlete": "Matthew HUDSON-SMITH",
+    "county": "GBR",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "1.500m masculino",
+    "athlete": "Josh KERR",
+    "county": "GBR",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Heptatlo feminino",
+    "athlete": "Katarina JOHNSON-THOMPSON",
+    "county": "GBR",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x100m feminino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x100m masculino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x400m masculino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "1.500m feminino",
+    "athlete": "Georgia BELL",
+    "county": "GBR",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x400m feminino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4 x 400m Misto",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "71kg Masculino",
+    "athlete": "Lewis RICHARDSON",
+    "county": "GBR",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Canoa Individual Masculina",
+    "athlete": "Adam BURGESS",
+    "county": "GBR",
+    "sport": "Canoagem Slalom",
+    "medal": "silver",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "Caiaque Cross Masculino",
+    "athlete": "Joseph CLARKE",
+    "county": "GBR",
+    "sport": "Canoagem Slalom",
+    "medal": "silver",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "Caiaque Individual Feminino",
+    "athlete": "Kimberley WOODS",
+    "county": "GBR",
+    "sport": "Canoagem Slalom",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "Caiaque Cross Feminino",
+    "athlete": "Kimberley WOODS",
+    "county": "GBR",
+    "sport": "Canoagem Slalom",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "Park Masculino",
+    "athlete": "Kieran Darren David REILLY",
+    "county": "GBR",
+    "sport": "Ciclismo BMX Freestyle",
+    "medal": "silver",
+    "upperSport": "CICLISMO BMX FREESTYLE"
+  },
+  {
+    "category": "Contrarrelógio individual feminino",
+    "athlete": "Anna HENDERSON",
+    "county": "GBR",
+    "sport": "Ciclismo de Estrada",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Sprint por equipes feminino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Sprint por equipes masculino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Perseguição por equipes masculino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Madison Feminino",
+    "athlete": "BARKER/EVANS",
+    "county": "GBR",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Sprint masculino",
+    "athlete": "Jack CARLIN",
+    "county": "GBR",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Sprint feminino",
+    "athlete": "Emma FINUCANE",
+    "county": "GBR",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Keirin feminino",
+    "athlete": "Emma FINUCANE",
+    "county": "GBR",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Perseguição por equipes feminino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Cross-country masculino",
+    "athlete": "Thomas PIDCOCK",
+    "county": "GBR",
+    "sport": "Ciclismo Mountain Bike",
+    "medal": "gold",
+    "upperSport": "CICLISMO MOUNTAIN BIKE"
+  },
+  {
+    "category": "Boulder e Lead Masculino",
+    "athlete": "Toby ROBERTS",
+    "county": "GBR",
+    "sport": "Escalada",
+    "medal": "gold",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "Solo masculino",
+    "athlete": "Jake JARMAN",
+    "county": "GBR",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Salto masculino",
+    "athlete": "Harry HEPWORTH",
+    "county": "GBR",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Bryony PAGE",
+    "county": "GBR",
+    "sport": "Ginástica de Trampolim",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA DE TRAMPOLIM"
+  },
+  {
+    "category": "Jogo por tacadas individual masculino",
+    "athlete": "Tommy FLEETWOOD",
+    "county": "GBR",
+    "sport": "Golfe",
+    "medal": "silver",
+    "upperSport": "GOLFE"
+  },
+  {
+    "category": "CCE por Equipes",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Hipismo",
+    "medal": "gold",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Saltos por equipes",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Hipismo",
+    "medal": "gold",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "CCE Individual",
+    "athlete": "Laura COLLETT",
+    "county": "GBR",
+    "sport": "Hipismo",
+    "medal": "bronze",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Adestramento por equipes",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Hipismo",
+    "medal": "bronze",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Adestramento individual",
+    "athlete": "Charlotte FRY",
+    "county": "GBR",
+    "sport": "Hipismo",
+    "medal": "bronze",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "81kg Feminino",
+    "athlete": "Emily CAMPBELL",
+    "county": "GBR",
+    "sport": "Levantamento de Peso",
+    "medal": "bronze",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Dueto",
+    "athlete": "SHORTMAN/THORPE",
+    "county": "GBR",
+    "sport": "Nado Artístico",
+    "medal": "silver",
+    "upperSport": "NADO ARTÍSTICO"
+  },
+  {
+    "category": "Revezamento 4x200m livre masculino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "50m livre masculino",
+    "athlete": "Benjamin PROUD",
+    "county": "GBR",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m livre masculino",
+    "athlete": "Matthew RICHARDS",
+    "county": "GBR",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m peito masculino",
+    "athlete": "Adam PEATY",
+    "county": "GBR",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m medley masculino",
+    "athlete": "Duncan SCOTT",
+    "county": "GBR",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Skiff duplo leve feminino",
+    "athlete": "CRAIG/GRANT",
+    "county": "GBR",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff quádruplo feminino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Oito com masculino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Dois sem masculino",
+    "athlete": "WYNNE-GRIF/GEORGE",
+    "county": "GBR",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Quatro sem feminino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff duplo feminino",
+    "athlete": "HODGKINS B/WILDE",
+    "county": "GBR",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Quatro sem masculino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Oito com feminino",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Plataforma 10m sincronizada masculino",
+    "athlete": "DALEY/WILLIAMS",
+    "county": "GBR",
+    "sport": "Saltos Ornamentais",
+    "medal": "silver",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Trampolim 3m sincronizado feminino",
+    "athlete": "HARPER/MEW JENSEN",
+    "county": "GBR",
+    "sport": "Saltos Ornamentais",
+    "medal": "bronze",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Plataforma 10m sincronizada feminino",
+    "athlete": "SPENDOLINI/TOULSON",
+    "county": "GBR",
+    "sport": "Saltos Ornamentais",
+    "medal": "bronze",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Plataforma 10m masculino",
+    "athlete": "Noah WILLIAMS",
+    "county": "GBR",
+    "sport": "Saltos Ornamentais",
+    "medal": "bronze",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Trampolim 3m sincronizado masculino",
+    "athlete": "HARDING/LAUGHER",
+    "county": "GBR",
+    "sport": "Saltos Ornamentais",
+    "medal": "bronze",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Park Feminino",
+    "athlete": "Sky BROWN",
+    "county": "GBR",
+    "sport": "Skate",
+    "medal": "silver",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Acima de 80kg masculino",
+    "athlete": "Caden CUNNINGHAM",
+    "county": "GBR",
+    "sport": "Taekwondo",
+    "medal": "silver",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Fossa olímpica masculino",
+    "athlete": "Nathan HALES",
+    "county": "GBR",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Skeet Feminino",
+    "athlete": "Amber Jo RUTTER",
+    "county": "GBR",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Individual Masculino",
+    "athlete": "Alex YEE",
+    "county": "GBR",
+    "sport": "Triatlo",
+    "medal": "gold",
+    "upperSport": "TRIATLO"
+  },
+  {
+    "category": "Individual Feminino",
+    "athlete": "Beth POTTER",
+    "county": "GBR",
+    "sport": "Triatlo",
+    "medal": "bronze",
+    "upperSport": "TRIATLO"
+  },
+  {
+    "category": "Revezamento Misto",
+    "athlete": "Great Britain",
+    "county": "GBR",
+    "sport": "Triatlo",
+    "medal": "bronze",
+    "upperSport": "TRIATLO"
+  },
+  {
+    "category": "Kite Feminino",
+    "athlete": "Eleanor ALDRIDGE",
+    "county": "GBR",
+    "sport": "Vôlei",
+    "medal": "gold",
+    "upperSport": "VÔLEI"
+  },
+  {
+    "category": "Windsurf Feminino",
+    "athlete": "Emma WILSON",
+    "county": "GBR",
+    "sport": "Vôlei",
+    "medal": "bronze",
+    "upperSport": "VÔLEI"
+  },
+  {
+    "category": "Simples feminino",
+    "athlete": "AN Se Young",
+    "county": "KOR",
+    "sport": "Badminton",
+    "medal": "gold",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "Duplas mistas",
+    "athlete": "KIM/JEONG",
+    "county": "KOR",
+    "sport": "Badminton",
+    "medal": "silver",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "54kg Feminino",
+    "athlete": "IM Aeji",
+    "county": "KOR",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Sabre individual masculino",
+    "athlete": "OH Sanguk",
+    "county": "KOR",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Sabre por Equipes Masculino",
+    "athlete": "Korea",
+    "county": "KOR",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Sabre por equipes feminino",
+    "athlete": "Korea",
+    "county": "KOR",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "57kg feminino",
+    "athlete": "HUH Mimi",
+    "county": "KOR",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "100kg masculino",
+    "athlete": "KIM Minjong",
+    "county": "KOR",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "78kg feminino",
+    "athlete": "KIM Hayun",
+    "county": "KOR",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "81kg masculino",
+    "athlete": "LEE Joonhwan",
+    "county": "KOR",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Equipe Mista",
+    "athlete": "Korea",
+    "county": "KOR",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "81kg Feminino",
+    "athlete": "PARK Hyejeong",
+    "county": "KOR",
+    "sport": "Levantamento de Peso",
+    "medal": "silver",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "400m livre masculino",
+    "athlete": "KIM Woomin",
+    "county": "KOR",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Individual feminino",
+    "athlete": "SEONG Seungmin",
+    "county": "KOR",
+    "sport": "Pentatlo Moderno",
+    "medal": "bronze",
+    "upperSport": "PENTATLO MODERNO"
+  },
+  {
+    "category": "58kg masculino",
+    "athlete": "PARK Taejoon",
+    "county": "KOR",
+    "sport": "Taekwondo",
+    "medal": "gold",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "57kg feminino",
+    "athlete": "KIM Yujin",
+    "county": "KOR",
+    "sport": "Taekwondo",
+    "medal": "gold",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "67kg feminino",
+    "athlete": "LEE Dabin",
+    "county": "KOR",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Duplas mistas",
+    "athlete": "LIM/SHIN",
+    "county": "KOR",
+    "sport": "Tênis de Mesa",
+    "medal": "bronze",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Equipes femininas",
+    "athlete": "Korea",
+    "county": "KOR",
+    "sport": "Tênis de Mesa",
+    "medal": "bronze",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Individual masculino",
+    "athlete": "KIM Woojin",
+    "county": "KOR",
+    "sport": "Tiro com Arco",
+    "medal": "gold",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Individual feminino",
+    "athlete": "LIM Sihyeon",
+    "county": "KOR",
+    "sport": "Tiro com Arco",
+    "medal": "gold",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Equipes masculinas",
+    "athlete": "Korea",
+    "county": "KOR",
+    "sport": "Tiro com Arco",
+    "medal": "gold",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Equipes femininas",
+    "athlete": "Korea",
+    "county": "KOR",
+    "sport": "Tiro com Arco",
+    "medal": "gold",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Equipe Mista",
+    "athlete": "Korea",
+    "county": "KOR",
+    "sport": "Tiro com Arco",
+    "medal": "gold",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Individual feminino",
+    "athlete": "NAM Suhyeon",
+    "county": "KOR",
+    "sport": "Tiro com Arco",
+    "medal": "silver",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Individual masculino",
+    "athlete": "LEE Wooseok",
+    "county": "KOR",
+    "sport": "Tiro com Arco",
+    "medal": "bronze",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Carabina de ar 10m feminino",
+    "athlete": "BAN Hyojin",
+    "county": "KOR",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Pistola de ar 10m feminino",
+    "athlete": "OH Ye Jin",
+    "county": "KOR",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Pistola 25m feminino",
+    "athlete": "YANG Jiin",
+    "county": "KOR",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Pistola de tiro rápido 25m masculino",
+    "athlete": "CHO Yeongjae",
+    "county": "KOR",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Pistola de ar 10m feminino",
+    "athlete": "KIM Yeji",
+    "county": "KOR",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Carabina de ar 10m equipes mistas",
+    "athlete": "Korea ",
+    "county": "KOR",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "10.000m feminino",
+    "athlete": "Nadia BATTOCLETTI",
+    "county": "ITA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto em distância masculino",
+    "athlete": "Mattia FURLANI",
+    "county": "ITA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto triplo masculino",
+    "athlete": "Andy DIAZ HERNANDEZ",
+    "county": "ITA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Caiaque Individual Masculino",
+    "athlete": "Giovanni de GENNARO",
+    "county": "ITA",
+    "sport": "Canoagem Slalom",
+    "medal": "gold",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "C2 500m masculino",
+    "athlete": "CASADEI/TACCHINI",
+    "county": "ITA",
+    "sport": "Canoagem de Velocidade",
+    "medal": "silver",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Contrarrelógio individual masculino",
+    "athlete": "Filippo GANNA",
+    "county": "ITA",
+    "sport": "Ciclismo de Estrada",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Madison Feminino",
+    "athlete": "CONSONNI/GUAZZINI",
+    "county": "ITA",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Madison Masculino",
+    "athlete": "CONSONNI/VIVIANI",
+    "county": "ITA",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Perseguição por equipes masculino",
+    "athlete": "Italy",
+    "county": "ITA",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Espada por equipes feminina",
+    "athlete": "Italy",
+    "county": "ITA",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Florete individual masculino",
+    "athlete": "Filippo MACCHI",
+    "county": "ITA",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Florete por Equipes Feminino",
+    "athlete": "Italy",
+    "county": "ITA",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Florete por equipes masculino",
+    "athlete": "Italy",
+    "county": "ITA",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Sabre individual masculino",
+    "athlete": "Luigi SAMELE",
+    "county": "ITA",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Trave feminina",
+    "athlete": "Alice D'AMATO",
+    "county": "ITA",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Equipes feminino",
+    "athlete": "Italy",
+    "county": "ITA",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Trave feminina",
+    "athlete": "Manila ESPOSITO",
+    "county": "ITA",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Competição individual geral",
+    "athlete": "Sofia RAFFAELI",
+    "county": "ITA",
+    "sport": "Ginástica Rítmica",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA RÍTMICA"
+  },
+  {
+    "category": "Competição por equipes geral",
+    "athlete": "Italy",
+    "county": "ITA",
+    "sport": "Ginástica Rítmica",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA RÍTMICA"
+  },
+  {
+    "category": "78kg feminino",
+    "athlete": "Alice BELLANDI",
+    "county": "ITA",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "89kg Masculino",
+    "athlete": "Antonino PIZZOLATO",
+    "county": "ITA",
+    "sport": "Levantamento de Peso",
+    "medal": "gold",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "10km feminino",
+    "athlete": "Ginevra TADDEUCCI",
+    "county": "ITA",
+    "sport": "Maratona Aquática",
+    "medal": "bronze",
+    "upperSport": "MARATONA AQUÁTICA"
+  },
+  {
+    "category": "100m costas masculino",
+    "athlete": "Thomas CECCON",
+    "county": "ITA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m peito masculino",
+    "athlete": "Nicolo MARTINENGHI",
+    "county": "ITA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "1.500m livre masculino",
+    "athlete": "Gregorio PALTRINIERI",
+    "county": "ITA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "800m livre masculino",
+    "athlete": "Gregorio PALTRINIERI",
+    "county": "ITA",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Revezamento 4x100m livre masculino",
+    "athlete": "Italy",
+    "county": "ITA",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Individual masculino",
+    "athlete": "Giorgio MALAN",
+    "county": "ITA",
+    "sport": "Pentatlo Moderno",
+    "medal": "bronze",
+    "upperSport": "PENTATLO MODERNO"
+  },
+  {
+    "category": "Skiff duplo leve masculino",
+    "athlete": "OPPO/SOARES",
+    "county": "ITA",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff quádruplo masculino",
+    "athlete": "Italy",
+    "county": "ITA",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Até 80kg masculino",
+    "athlete": "Simone ALESSIO",
+    "county": "ITA",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Duplas femininas",
+    "athlete": "ERRANI/PAOLINI",
+    "county": "ITA",
+    "sport": "Tênis",
+    "medal": "gold",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Simples masculino",
+    "athlete": "Lorenzo MUSETTI",
+    "county": "ITA",
+    "sport": "Tênis",
+    "medal": "bronze",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Skeet equipes mistas",
+    "athlete": "Italy 1",
+    "county": "ITA",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Pistola de ar 10m masculino",
+    "athlete": "Federico Nilo MALDINI",
+    "county": "ITA",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Fossa olímpica feminina",
+    "athlete": "Silvana Maria STANCO",
+    "county": "ITA",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Pistola de ar 10m masculino",
+    "athlete": "Paolo MONNA",
+    "county": "ITA",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Windsurf Feminino",
+    "athlete": "Marta MAGGETTI",
+    "county": "ITA",
+    "sport": "Vela",
+    "medal": "gold",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Multicasco Misto",
+    "athlete": "TITA/BANTI",
+    "county": "ITA",
+    "sport": "Vela",
+    "medal": "gold",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Italy",
+    "county": "ITA",
+    "sport": "Vôlei",
+    "medal": "gold",
+    "upperSport": "VÔLEI"
+  },
+  {
+    "category": "Arremesso do peso feminino",
+    "athlete": "Yemisi OGUNLEYE",
+    "county": "GER",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Decatlo masculino",
+    "athlete": "Leo NEUGEBAUER",
+    "county": "GER",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto em distância feminino",
+    "athlete": "Malaika MIHAMBO",
+    "county": "GER",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x100m feminino",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Basquete 3x3",
+    "medal": "gold",
+    "upperSport": "BASQUETE 3X3"
+  },
+  {
+    "category": "92kg Masculino",
+    "athlete": "Nelvie Raman TIAFACK",
+    "county": "GER",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Canoa Individual Feminina",
+    "athlete": "Elena LILIK",
+    "county": "GER",
+    "sport": "Canoagem Slalom",
+    "medal": "silver",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "Caiaque Cross Masculino",
+    "athlete": "Noah HEGGE",
+    "county": "GER",
+    "sport": "Canoagem Slalom",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "K2 500m masculino",
+    "athlete": "SCHOPF/LEMKE",
+    "county": "GER",
+    "sport": "Canoagem de Velocidade",
+    "medal": "gold",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K4 500m masculino",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Canoagem de Velocidade",
+    "medal": "gold",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K4 500m feminino",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Canoagem de Velocidade",
+    "medal": "silver",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K2 500m feminino",
+    "athlete": "PASZEK/HAKE",
+    "county": "GER",
+    "sport": "Canoagem de Velocidade",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Sprint feminino",
+    "athlete": "Lea FRIEDRICH",
+    "county": "GER",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Sprint por equipes feminino",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Futebol",
+    "medal": "bronze",
+    "upperSport": "FUTEBOL"
+  },
+  {
+    "category": "Competição individual geral",
+    "athlete": "Darja VARFOLOMEEV",
+    "county": "GER",
+    "sport": "Ginástica Rítmica",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA RÍTMICA"
+  },
+  {
+    "category": "Jogo por tacadas individual feminino",
+    "athlete": "Esther HENSELEIT",
+    "county": "GER",
+    "sport": "Golfe",
+    "medal": "silver",
+    "upperSport": "GOLFE"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Handebol",
+    "medal": "silver",
+    "upperSport": "HANDEBOL"
+  },
+  {
+    "category": "CCE Individual",
+    "athlete": "Michael JUNG",
+    "county": "GER",
+    "sport": "Hipismo",
+    "medal": "gold",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Adestramento por equipes",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Hipismo",
+    "medal": "gold",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Adestramento individual",
+    "athlete": "Jessica von BREDOW-WERNDL",
+    "county": "GER",
+    "sport": "Hipismo",
+    "medal": "gold",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Saltos individual",
+    "athlete": "Christian KUKUK",
+    "county": "GER",
+    "sport": "Hipismo",
+    "medal": "gold",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Adestramento individual",
+    "athlete": "Isabell WERTH",
+    "county": "GER",
+    "sport": "Hipismo",
+    "medal": "silver",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Hóquei sobre Grama",
+    "medal": "silver",
+    "upperSport": "HÓQUEI SOBRE GRAMA"
+  },
+  {
+    "category": "70kg feminino",
+    "athlete": "Miriam BUTKEREIT",
+    "county": "GER",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "10km masculino",
+    "athlete": "Oliver KLEMET",
+    "county": "GER",
+    "sport": "Maratona Aquática",
+    "medal": "silver",
+    "upperSport": "MARATONA AQUÁTICA"
+  },
+  {
+    "category": "400m livre masculino",
+    "athlete": "Lukas MAERTENS",
+    "county": "GER",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "1500m livre feminino",
+    "athlete": "Isabel GOSE",
+    "county": "GER",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Skiff simples masculino",
+    "athlete": "Oliver ZEIDLER",
+    "county": "GER",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff quádruplo feminino",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Equipe Mista",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Tiro com Arco",
+    "medal": "silver",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Revezamento Misto",
+    "athlete": "Germany",
+    "county": "GER",
+    "sport": "Triatlo",
+    "medal": "gold",
+    "upperSport": "TRIATLO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "EHLERS/WICKLER",
+    "county": "GER",
+    "sport": "Vôlei de Praia",
+    "medal": "silver",
+    "upperSport": "VÔLEI DE PRAIA"
+  },
+  {
+    "category": "Salto em altura masculino",
+    "athlete": "Hamish KERR",
+    "county": "NZL",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Arremesso do peso feminino",
+    "athlete": "Maddison-Lee WESCHE",
+    "county": "NZL",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Caiaque Cross Masculino",
+    "athlete": "Finn BUTCHER",
+    "county": "NZL",
+    "sport": "Canoagem Slalom",
+    "medal": "gold",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "K1 500m feminino",
+    "athlete": "Lisa CARRINGTON",
+    "county": "NZL",
+    "sport": "Canoagem de Velocidade",
+    "medal": "gold",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K2 500m feminino",
+    "athlete": "CARRINGTON/HOSKIN",
+    "county": "NZL",
+    "sport": "Canoagem de Velocidade",
+    "medal": "gold",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K4 500m feminino",
+    "athlete": "New Zealand",
+    "county": "NZL",
+    "sport": "Canoagem de Velocidade",
+    "medal": "gold",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Sprint feminino",
+    "athlete": "Ellesse ANDREWS",
+    "county": "NZL",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Keirin feminino",
+    "athlete": "Ellesse ANDREWS",
+    "county": "NZL",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Sprint por equipes feminino",
+    "athlete": "New Zealand",
+    "county": "NZL",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Perseguição por equipes feminino",
+    "athlete": "New Zealand",
+    "county": "NZL",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Omnium feminino",
+    "athlete": "Ally WOLLASTON",
+    "county": "NZL",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Jogo por tacadas individual feminino",
+    "athlete": "Lydia KO",
+    "county": "NZL",
+    "sport": "Golfe",
+    "medal": "gold",
+    "upperSport": "GOLFE"
+  },
+  {
+    "category": "Skiff duplo feminino",
+    "athlete": "FRANCIS/SPOORS",
+    "county": "NZL",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Quatro sem masculino",
+    "athlete": "New Zealand",
+    "county": "NZL",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff simples feminino",
+    "athlete": "Emma TWIGG",
+    "county": "NZL",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Quatro sem feminino",
+    "athlete": "New Zealand",
+    "county": "NZL",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "New Zealand",
+    "county": "NZL",
+    "sport": "Rugby Sevens",
+    "medal": "gold",
+    "upperSport": "RUGBY SEVENS"
+  },
+  {
+    "category": "Individual Masculino",
+    "athlete": "Hayden WILDE",
+    "county": "NZL",
+    "sport": "Triatlo",
+    "medal": "silver",
+    "upperSport": "TRIATLO"
+  },
+  {
+    "category": "Skiff Masculino",
+    "athlete": "McHARDIE/McKENZIE",
+    "county": "NZL",
+    "sport": "Vela",
+    "medal": "silver",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Multicasco Misto",
+    "athlete": "WILKINSON/DAWSON",
+    "county": "NZL",
+    "sport": "Vela",
+    "medal": "bronze",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Lançamento de martelo masculino",
+    "athlete": "Ethan KATZBERG",
+    "county": "CAN",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x100m masculino",
+    "athlete": "Canada",
+    "county": "CAN",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Lançamento de martelo feminino",
+    "athlete": "Camryn ROGERS",
+    "county": "CAN",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "800m masculino",
+    "athlete": "Marco AROP",
+    "county": "CAN",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto com vara feminino",
+    "athlete": "Alysha NEWMAN",
+    "county": "CAN",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "63.5kg Masculino",
+    "athlete": "Wyatt SANFORD",
+    "county": "CAN",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "B-Boys",
+    "athlete": "PHIL WIZARD",
+    "county": "CAN",
+    "sport": "Breaking",
+    "medal": "gold",
+    "upperSport": "BREAKING"
+  },
+  {
+    "category": "C1 200m feminino",
+    "athlete": "Katie VINCENT",
+    "county": "CAN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "gold",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "C2 500m feminino",
+    "athlete": "MACKENZIE/VINCENT",
+    "county": "CAN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Florete individual feminino",
+    "athlete": "Eleanor HARVEY",
+    "county": "CAN",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Sophiane METHOT",
+    "county": "CAN",
+    "sport": "Ginástica de Trampolim",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA DE TRAMPOLIM"
+  },
+  {
+    "category": "57kg feminino",
+    "athlete": "Christa DEGUCHI",
+    "county": "CAN",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "59kg Feminino",
+    "athlete": "Maude CHARRON",
+    "county": "CAN",
+    "sport": "Levantamento de Peso",
+    "medal": "silver",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "200m borboleta feminino",
+    "athlete": "Summer McINTOSH",
+    "county": "CAN",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m medley feminino",
+    "athlete": "Summer McINTOSH",
+    "county": "CAN",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "400m medley feminino",
+    "athlete": "Summer McINTOSH",
+    "county": "CAN",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "400m livre feminino",
+    "athlete": "Summer McINTOSH",
+    "county": "CAN",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m borboleta masculino",
+    "athlete": "Josh LIENDO",
+    "county": "CAN",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m costas feminino",
+    "athlete": "Kylie MASSE",
+    "county": "CAN",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m borboleta masculino",
+    "athlete": "Ilya KHARUN",
+    "county": "CAN",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m borboleta masculino",
+    "athlete": "Ilya KHARUN",
+    "county": "CAN",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Oito com feminino",
+    "athlete": "Canada",
+    "county": "CAN",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Canada",
+    "county": "CAN",
+    "sport": "Rugby Sevens",
+    "medal": "silver",
+    "upperSport": "RUGBY SEVENS"
+  },
+  {
+    "category": "Plataforma 10m sincronizada masculino",
+    "athlete": "WIENS/ZSOMBOR-MURRAY",
+    "county": "CAN",
+    "sport": "Saltos Ornamentais",
+    "medal": "bronze",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "57kg feminino",
+    "athlete": "Skylar PARK",
+    "county": "CAN",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Duplas mistas",
+    "athlete": "DABROWSKI/AUGER-ALIAS",
+    "county": "CAN",
+    "sport": "Tênis",
+    "medal": "bronze",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "MELISSA/BRANDIE",
+    "county": "CAN",
+    "sport": "Vôlei de Praia",
+    "medal": "silver",
+    "upperSport": "VÔLEI DE PRAIA"
+  },
+  {
+    "category": "51kg Masculino",
+    "athlete": "Hasanboy DUSMATOV",
+    "county": "UZB",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "57kg Masculino",
+    "athlete": "Abdumalik KHALOKOV",
+    "county": "UZB",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "71kg Masculino",
+    "athlete": "Asadkhuja MUYDINKHUJAEV",
+    "county": "UZB",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "92kg Masculino",
+    "athlete": "Lazizbek MULLOJONOV",
+    "county": "UZB",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "92kg Masculino",
+    "athlete": "Bakhodir JALOLOV",
+    "county": "UZB",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "52kg feminino",
+    "athlete": "Diyora KELDIYOROVA",
+    "county": "UZB",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "100kg masculino",
+    "athlete": "Muzaffarbek TUROBOYEV",
+    "county": "UZB",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "100kg masculino",
+    "athlete": "Alisher YUSUPOV",
+    "county": "UZB",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "102kg Masculino",
+    "athlete": "Akbar DJURAEV",
+    "county": "UZB",
+    "sport": "Levantamento de Peso",
+    "medal": "silver",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Luta livre masculina 74kg",
+    "athlete": "Razambek Salambekovitch JAMALOV",
+    "county": "UZB",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 57kg",
+    "athlete": "Gulomjon ABDULLAEV",
+    "county": "UZB",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "68kg masculino",
+    "athlete": "Ulugbek RASHITOV",
+    "county": "UZB",
+    "sport": "Taekwondo",
+    "medal": "gold",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "67kg feminino",
+    "athlete": "Svetlana OSIPOVA",
+    "county": "UZB",
+    "sport": "Taekwondo",
+    "medal": "silver",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Lançamento de martelo masculino",
+    "athlete": "Bence HALASZ",
+    "county": "HUN",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "K1 1000m masculino",
+    "athlete": "Adam VARGA",
+    "county": "HUN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "silver",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K2 500m masculino",
+    "athlete": "NADAS/TOTKA",
+    "county": "HUN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "silver",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K1 500m feminino",
+    "athlete": "Tamara CSIPES",
+    "county": "HUN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "silver",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K2 500m feminino",
+    "athlete": "CSIPES/GAZSO",
+    "county": "HUN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "silver",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K1 1000m masculino",
+    "athlete": "Balint KOPASZ",
+    "county": "HUN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K2 500m feminino",
+    "athlete": "PUPP/FOJT",
+    "county": "HUN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "K4 500m feminino",
+    "athlete": "Hungary",
+    "county": "HUN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Espada por equipes masculina",
+    "athlete": "Hungary",
+    "county": "HUN",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Sabre por Equipes Masculino",
+    "athlete": "Hungary",
+    "county": "HUN",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Espada individual feminina",
+    "athlete": "Eszter MUHARI",
+    "county": "HUN",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "10km masculino",
+    "athlete": "Kristof RASOVSZKY",
+    "county": "HUN",
+    "sport": "Maratona Aquática",
+    "medal": "gold",
+    "upperSport": "MARATONA AQUÁTICA"
+  },
+  {
+    "category": "10km masculino",
+    "athlete": "David BETLEHEM",
+    "county": "HUN",
+    "sport": "Maratona Aquática",
+    "medal": "bronze",
+    "upperSport": "MARATONA AQUÁTICA"
+  },
+  {
+    "category": "200m costas masculino",
+    "athlete": "Hubert KOS",
+    "county": "HUN",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m borboleta masculino",
+    "athlete": "Kristof MILAK",
+    "county": "HUN",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m borboleta masculino",
+    "athlete": "Kristof MILAK",
+    "county": "HUN",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Individual feminino",
+    "athlete": "Michelle GULYAS",
+    "county": "HUN",
+    "sport": "Pentatlo Moderno",
+    "medal": "gold",
+    "upperSport": "PENTATLO MODERNO"
+  },
+  {
+    "category": "67kg feminino",
+    "athlete": "Viviana MARTON",
+    "county": "HUN",
+    "sport": "Taekwondo",
+    "medal": "gold",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Pistola 25m feminino",
+    "athlete": "Veronika MAJOR",
+    "county": "HUN",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Salto triplo masculino",
+    "athlete": "Jordan Alejandro DIAZ FORTUN",
+    "county": "ESP",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "M. de Marcha Atlética Rev. Misto",
+    "athlete": "MARTIN A/PEREZ M",
+    "county": "ESP",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Marcha Atlética 20 km feminina",
+    "athlete": "Maria PEREZ",
+    "county": "ESP",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Marcha Atlética 20 km masculina",
+    "athlete": "Alvaro MARTIN",
+    "county": "ESP",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Spain",
+    "county": "ESP",
+    "sport": "Basquete 3x3",
+    "medal": "silver",
+    "upperSport": "BASQUETE 3X3"
+  },
+  {
+    "category": "92kg Masculino",
+    "athlete": "Ayoub GHADFA DRISSI EL AISSAOUI",
+    "county": "ESP",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "92kg Masculino",
+    "athlete": "Enmanuel REYES PLA",
+    "county": "ESP",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Caiaque Individual Masculino",
+    "athlete": "Pau ECHANIZ",
+    "county": "ESP",
+    "sport": "Canoagem Slalom",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "K4 500m masculino",
+    "athlete": "Spain",
+    "county": "ESP",
+    "sport": "Canoagem de Velocidade",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "C2 500m masculino",
+    "athlete": "MORENO/DOMINGUEZ",
+    "county": "ESP",
+    "sport": "Canoagem de Velocidade",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Spain",
+    "county": "ESP",
+    "sport": "Futebol",
+    "medal": "gold",
+    "upperSport": "FUTEBOL"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Spain",
+    "county": "ESP",
+    "sport": "Handebol",
+    "medal": "bronze",
+    "upperSport": "HANDEBOL"
+  },
+  {
+    "category": "60kg masculino",
+    "athlete": "Francisco GARRIGOS",
+    "county": "ESP",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Equipe",
+    "athlete": "Spain",
+    "county": "ESP",
+    "sport": "Nado Artístico",
+    "medal": "bronze",
+    "upperSport": "NADO ARTÍSTICO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Spain",
+    "county": "ESP",
+    "sport": "Polo Aquático",
+    "medal": "gold",
+    "upperSport": "POLO AQUÁTICO"
+  },
+  {
+    "category": "Simples masculino",
+    "athlete": "Carlos ALCARAZ",
+    "county": "ESP",
+    "sport": "Tênis",
+    "medal": "silver",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Duplas femininas",
+    "athlete": "BUCSA/SORRIBES TORMO",
+    "county": "ESP",
+    "sport": "Tênis",
+    "medal": "bronze",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Skiff Masculino",
+    "athlete": "BOTIN/TRITTEL",
+    "county": "ESP",
+    "sport": "Vela",
+    "medal": "gold",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Salto com vara masculino",
+    "athlete": "Armand DUPLANTIS",
+    "county": "SWE",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Cross-country feminino",
+    "athlete": "Jenny RISSVEDS",
+    "county": "SWE",
+    "sport": "Ciclismo Mountain Bike",
+    "medal": "bronze",
+    "upperSport": "CICLISMO MOUNTAIN BIKE"
+  },
+  {
+    "category": "Até 48kg feminino",
+    "athlete": "Tara BABULFATH",
+    "county": "SWE",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "50m livre feminino",
+    "athlete": "Sarah SJOESTROEM",
+    "county": "SWE",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m livre feminino",
+    "athlete": "Sarah SJOESTROEM",
+    "county": "SWE",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Simples masculino",
+    "athlete": "Truls MOREGARD",
+    "county": "SWE",
+    "sport": "Tênis de Mesa",
+    "medal": "silver",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Equipes masculinas",
+    "athlete": "Sweden",
+    "county": "SWE",
+    "sport": "Tênis de Mesa",
+    "medal": "silver",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Carabina de ar 10m masculino",
+    "athlete": "Victor LINDGREN",
+    "county": "SWE",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Skiff Feminino",
+    "athlete": "BOBECK/NETZLER",
+    "county": "SWE",
+    "sport": "Vela",
+    "medal": "silver",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Dinghy Misto",
+    "athlete": "DAHLBERG/KARLSSON",
+    "county": "SWE",
+    "sport": "Vela",
+    "medal": "bronze",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "AHMAN/HELLVIG",
+    "county": "SWE",
+    "sport": "Vôlei de Praia",
+    "medal": "gold",
+    "upperSport": "VÔLEI DE PRAIA"
+  },
+  {
+    "category": "800m masculino",
+    "athlete": "Emmanuel WANYONYI",
+    "county": "KEN",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "1.500m feminino",
+    "athlete": "Faith KIPYEGON",
+    "county": "KEN",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "5.000m feminino",
+    "athlete": "Beatrice CHEBET",
+    "county": "KEN",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "10.000m feminino",
+    "athlete": "Beatrice CHEBET",
+    "county": "KEN",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "5.000m masculino",
+    "athlete": "Ronald KWEMOI",
+    "county": "KEN",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "5.000m feminino",
+    "athlete": "Faith KIPYEGON",
+    "county": "KEN",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Maratona masculina",
+    "athlete": "Benson KIPRUTO",
+    "county": "KEN",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "3.000m com obstáculos masculino",
+    "athlete": "Abraham KIBIWOT",
+    "county": "KEN",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "800m feminino",
+    "athlete": "Mary MORAA",
+    "county": "KEN",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Maratona feminina",
+    "athlete": "Hellen OBIRI",
+    "county": "KEN",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "3.000m com obstáculos feminino",
+    "athlete": "Faith CHEROTICH",
+    "county": "KEN",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "5.000m masculino",
+    "athlete": "Jakob INGEBRIGTSEN",
+    "county": "NOR",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Decatlo masculino",
+    "athlete": "Markus ROOTH",
+    "county": "NOR",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "400m com barreiras masculino",
+    "athlete": "Karsten WARHOLM",
+    "county": "NOR",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Norway",
+    "county": "NOR",
+    "sport": "Handebol",
+    "medal": "gold",
+    "upperSport": "HANDEBOL"
+  },
+  {
+    "category": "81kg Feminino",
+    "athlete": "Solfrid Eila Amena KOANDA",
+    "county": "NOR",
+    "sport": "Levantamento de Peso",
+    "medal": "gold",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Luta livre feminina 62kg",
+    "athlete": "Grace Jacob BULLEN",
+    "county": "NOR",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Dinghy Feminino",
+    "athlete": "Line Flem HOEST",
+    "county": "NOR",
+    "sport": "Vela",
+    "medal": "bronze",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "MOL/SORUM",
+    "county": "NOR",
+    "sport": "Vôlei de Praia",
+    "medal": "bronze",
+    "upperSport": "VÔLEI DE PRAIA"
+  },
+  {
+    "category": "60kg Feminino",
+    "athlete": "Kellie HARRINGTON",
+    "county": "IRL",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Cavalo com alças masculino",
+    "athlete": "Rhys MC CLENAGHAN",
+    "county": "IRL",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "800m livre masculino",
+    "athlete": "Daniel WIFFEN",
+    "county": "IRL",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m peito feminino",
+    "athlete": "Mona Mc SHARRY",
+    "county": "IRL",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "1.500m livre masculino",
+    "athlete": "Daniel WIFFEN",
+    "county": "IRL",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Skiff duplo leve masculino",
+    "athlete": "Mc CARTHY/O DONOVAN",
+    "county": "IRL",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff duplo masculino",
+    "athlete": "LYNCH/DOYLE",
+    "county": "IRL",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Marcha Atlética 20 km masculina",
+    "athlete": "Caio BONFIM",
+    "county": "BRA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "400m com barreiras masculino",
+    "athlete": "Alison dos SANTOS",
+    "county": "BRA",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "60kg Feminino",
+    "athlete": "Beatriz Iasmin SOARES FERREIRA",
+    "county": "BRA",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "C1 1000m masculino",
+    "athlete": "Isaquias QUEIROZ",
+    "county": "BRA",
+    "sport": "Canoagem de Velocidade",
+    "medal": "silver",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Brazil",
+    "county": "BRA",
+    "sport": "Futebol",
+    "medal": "silver",
+    "upperSport": "FUTEBOL"
+  },
+  {
+    "category": "Solo feminino",
+    "athlete": "Rebeca ANDRADE",
+    "county": "BRA",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Individual geral feminino",
+    "athlete": "Rebeca ANDRADE",
+    "county": "BRA",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Salto feminino",
+    "athlete": "Rebeca ANDRADE",
+    "county": "BRA",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Equipes feminino",
+    "athlete": "Brazil",
+    "county": "BRA",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "78kg feminino",
+    "athlete": "Beatriz SOUZA",
+    "county": "BRA",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "66kg masculino",
+    "athlete": "Willian LIMA",
+    "county": "BRA",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "52kg feminino",
+    "athlete": "Larissa PIMENTA",
+    "county": "BRA",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Equipe Mista",
+    "athlete": "Brazil",
+    "county": "BRA",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Street Feminino",
+    "athlete": "Rayssa LEAL",
+    "county": "BRA",
+    "sport": "Skate",
+    "medal": "bronze",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Park Masculino",
+    "athlete": "Augusto AKIO",
+    "county": "BRA",
+    "sport": "Skate",
+    "medal": "bronze",
+    "upperSport": "SKATE"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Tatiana WESTON-WEBB",
+    "county": "BRA",
+    "sport": "Surfe",
+    "medal": "silver",
+    "upperSport": "SURFE"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Gabriel MEDINA",
+    "county": "BRA",
+    "sport": "Surfe",
+    "medal": "bronze",
+    "upperSport": "SURFE"
+  },
+  {
+    "category": "68kg masculino",
+    "athlete": "Edival PONTES",
+    "county": "BRA",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Brazil",
+    "county": "BRA",
+    "sport": "Vôlei",
+    "medal": "bronze",
+    "upperSport": "VÔLEI"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "ANA PATRICIA/DUDA",
+    "county": "BRA",
+    "sport": "Vôlei de Praia",
+    "medal": "gold",
+    "upperSport": "VÔLEI DE PRAIA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 67kg",
+    "athlete": "Saeid ESMAEILI LEIVESI",
+    "county": "IRI",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 97kg",
+    "athlete": "Mohammadhadi SARAVI",
+    "county": "IRI",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 87kg",
+    "athlete": "Alireza MOHMADIPIANI",
+    "county": "IRI",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 65kg",
+    "athlete": "Rahman AMOUZADKHALILI",
+    "county": "IRI",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 86kg",
+    "athlete": "Hassan YAZDANICHARATI",
+    "county": "IRI",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 125kg",
+    "athlete": "Amir Hossein ZARE",
+    "county": "IRI",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 130kg",
+    "athlete": "Amin MIRZAZADEH",
+    "county": "IRI",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 97kg",
+    "athlete": "Amirali AZARPIRA",
+    "county": "IRI",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Acima de 80kg masculino",
+    "athlete": "Arian SALIMI",
+    "county": "IRI",
+    "sport": "Taekwondo",
+    "medal": "gold",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Até 80kg masculino",
+    "athlete": "Mehran BARKHORDARI",
+    "county": "IRI",
+    "sport": "Taekwondo",
+    "medal": "silver",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "57kg feminino",
+    "athlete": "Nahid KIYANICHANDEH",
+    "county": "IRI",
+    "sport": "Taekwondo",
+    "medal": "silver",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "49kg feminino",
+    "athlete": "Mobina NEMATZADEH",
+    "county": "IRI",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Salto em altura feminino",
+    "athlete": "Yaroslava MAHUCHIKH",
+    "county": "UKR",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Lançamento de martelo masculino",
+    "athlete": "Mykhaylo KOKHAN",
+    "county": "UKR",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto em altura feminino",
+    "athlete": "Iryna GERASHCHENKO",
+    "county": "UKR",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "80kg Masculino",
+    "athlete": "Oleksandr KHYZHNIAK",
+    "county": "UKR",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "C2 500m feminino",
+    "athlete": "LUZAN/RYBACHOK",
+    "county": "UKR",
+    "sport": "Canoagem de Velocidade",
+    "medal": "silver",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Sabre por equipes feminino",
+    "athlete": "Ukraine",
+    "county": "UKR",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Sabre individual feminino",
+    "athlete": "Olga KHARLAN",
+    "county": "UKR",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Barras paralelas masculinas",
+    "athlete": "Illia KOVTUN",
+    "county": "UKR",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 67kg",
+    "athlete": "Parviz NASIBOV",
+    "county": "UKR",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 62kg",
+    "athlete": "Iryna KOLIADENKO",
+    "county": "UKR",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 87kg",
+    "athlete": "Zhan BELENIUK",
+    "county": "UKR",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Carabina três posições 50m masculino",
+    "athlete": "Serhiy KULISH",
+    "county": "UKR",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Solo feminino",
+    "athlete": "Ana BARBOSU",
+    "county": "ROU",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "49kg Feminino",
+    "athlete": "Mihaela Valentina CAMBEI",
+    "county": "ROU",
+    "sport": "Levantamento de Peso",
+    "medal": "silver",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "200m livre masculino",
+    "athlete": "David POPOVICI",
+    "county": "ROU",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "100m livre masculino",
+    "athlete": "David POPOVICI",
+    "county": "ROU",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Skiff duplo masculino",
+    "athlete": "CORNEA/ENACHE",
+    "county": "ROU",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Oito com feminino",
+    "athlete": "Romania",
+    "county": "ROU",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Dois sem feminino",
+    "athlete": "VRINCEANU/ANGHEL",
+    "county": "ROU",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff duplo feminino",
+    "athlete": "BODNAR/RADIS",
+    "county": "ROU",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff duplo leve feminino",
+    "athlete": "van GRONINGEN/COZMIUC",
+    "county": "ROU",
+    "sport": "Remo",
+    "medal": "silver",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "63.5kg Masculino",
+    "athlete": "Lasha GURULI",
+    "county": "GEO",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "90kg masculino",
+    "athlete": "Lasha BEKAURI",
+    "county": "GEO",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "81kg masculino",
+    "athlete": "Tato GRIGALASHVILI",
+    "county": "GEO",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "100kg masculino",
+    "athlete": "Ilia SULAMANIDZE",
+    "county": "GEO",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "102kg Masculino",
+    "athlete": "Lasha TALAKHADZE",
+    "county": "GEO",
+    "sport": "Levantamento de Peso",
+    "medal": "gold",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Luta livre masculina 125kg",
+    "athlete": "Geno PETRIASHVILI",
+    "county": "GEO",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 97kg",
+    "athlete": "Givi MATCHARASHVILI",
+    "county": "GEO",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Heptatlo feminino",
+    "athlete": "Nafissatou THIAM",
+    "county": "BEL",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Maratona masculina",
+    "athlete": "Bashir ABDI",
+    "county": "BEL",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Heptatlo feminino",
+    "athlete": "Noor VIDTS",
+    "county": "BEL",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Corrida de estrada masculina",
+    "athlete": "Remco EVENEPOEL",
+    "county": "BEL",
+    "sport": "Ciclismo de Estrada",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Contrarrelógio individual masculino",
+    "athlete": "Remco EVENEPOEL",
+    "county": "BEL",
+    "sport": "Ciclismo de Estrada",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Corrida de estrada feminina",
+    "athlete": "Lotte KOPECKY",
+    "county": "BEL",
+    "sport": "Ciclismo de Estrada",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Contrarrelógio individual masculino",
+    "athlete": "Wout van AERT",
+    "county": "BEL",
+    "sport": "Ciclismo de Estrada",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE ESTRADA"
+  },
+  {
+    "category": "Omnium masculino",
+    "athlete": "Fabio van den BOSSCHE",
+    "county": "BEL",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "70kg feminino",
+    "athlete": "Gabriella WILLEMS",
+    "county": "BEL",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "67kg feminino",
+    "athlete": "Sarah CHAARI",
+    "county": "BEL",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "57kg Masculino",
+    "athlete": "Javier IBANEZ DIAZ",
+    "county": "BUL",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Competição individual geral",
+    "athlete": "Boryana KALEYN",
+    "county": "BUL",
+    "sport": "Ginástica Rítmica",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA RÍTMICA"
+  },
+  {
+    "category": "89kg Masculino",
+    "athlete": "Karlos May NASAR",
+    "county": "BUL",
+    "sport": "Levantamento de Peso",
+    "medal": "gold",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "73kg Masculino",
+    "athlete": "Bozhidar Dimitrov ANDREEV",
+    "county": "BUL",
+    "sport": "Levantamento de Peso",
+    "medal": "bronze",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 87kg",
+    "athlete": "Semen Sergeevich NOVIKOV",
+    "county": "BUL",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 86kg",
+    "athlete": "Magomed Eldarovitch RAMAZANOV",
+    "county": "BUL",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "57kg feminino",
+    "athlete": "Alizadeh KIMIA",
+    "county": "BUL",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Serbia",
+    "county": "SRB",
+    "sport": "Basquete ",
+    "medal": "bronze",
+    "upperSport": "BASQUETE"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Serbia",
+    "county": "SRB",
+    "sport": "Polo Aquático",
+    "medal": "gold",
+    "upperSport": "POLO AQUÁTICO"
+  },
+  {
+    "category": "67kg feminino",
+    "athlete": "Aleksandra PERISIC",
+    "county": "SRB",
+    "sport": "Taekwondo",
+    "medal": "silver",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Simples masculino",
+    "athlete": "Novak DJOKOVIC",
+    "county": "SRB",
+    "sport": "Tênis",
+    "medal": "gold",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Pistola de ar 10m equipes mistas",
+    "athlete": "Serbia",
+    "county": "SRB",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Lançamento de dardo feminino",
+    "athlete": "Nikola OGRODNIKOVA",
+    "county": "CZE",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "K1 1000m masculino",
+    "athlete": "Josef DOSTAL",
+    "county": "CZE",
+    "sport": "Canoagem de Velocidade",
+    "medal": "gold",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "C1 1000m masculino",
+    "athlete": "Martin FUKSA",
+    "county": "CZE",
+    "sport": "Canoagem de Velocidade",
+    "medal": "gold",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Espada por equipes masculina",
+    "athlete": "Czechia",
+    "county": "CZE",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Duplas mistas",
+    "athlete": "SINIAKOVA/MACHAC",
+    "county": "CZE",
+    "sport": "Tênis",
+    "medal": "gold",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Simples masculino",
+    "athlete": "Viktor AXELSEN",
+    "county": "DEN",
+    "sport": "Badminton",
+    "medal": "gold",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "K1 500m feminino",
+    "athlete": "Emma Aastrand JORGENSEN",
+    "county": "DEN",
+    "sport": "Canoagem de Velocidade",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Madison Masculino",
+    "athlete": "LARSEN/MOERKOEV",
+    "county": "DEN",
+    "sport": "Ciclismo de Pista",
+    "medal": "bronze",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Denmark",
+    "county": "DEN",
+    "sport": "Handebol",
+    "medal": "gold",
+    "upperSport": "HANDEBOL"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Denmark",
+    "county": "DEN",
+    "sport": "Handebol",
+    "medal": "bronze",
+    "upperSport": "HANDEBOL"
+  },
+  {
+    "category": "Adestramento por equipes",
+    "athlete": "Denmark",
+    "county": "DEN",
+    "sport": "Hipismo",
+    "medal": "silver",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 87kg",
+    "athlete": "Turpal Ali BISULTANOV",
+    "county": "DEN",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Até 80kg masculino",
+    "athlete": "Edi HRNIC",
+    "county": "DEN",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Dinghy Feminino",
+    "athlete": "Anne-Marie RINDOM",
+    "county": "DEN",
+    "sport": "Vela",
+    "medal": "silver",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "92kg Masculino",
+    "athlete": "Loren Berto ALFONSO DOMINGUEZ",
+    "county": "AZE",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "73kg masculino",
+    "athlete": "Hidayat HEYDAROV",
+    "county": "AZE",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "100kg masculino",
+    "athlete": "Zelym KOTSOIEV",
+    "county": "AZE",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 67kg",
+    "athlete": "Hasrat JAFAROV",
+    "county": "AZE",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 97kg",
+    "athlete": "Magomedkhan MAGOMEDOV",
+    "county": "AZE",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 125kg",
+    "athlete": "Giorgi MESHVILDISHVILI",
+    "county": "AZE",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "58kg masculino",
+    "athlete": "Gashim MAGOMEDOV",
+    "county": "AZE",
+    "sport": "Taekwondo",
+    "medal": "silver",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Lançamento de disco feminino",
+    "athlete": "Sandra ELKASEVIC",
+    "county": "CRO",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "70kg feminino",
+    "athlete": "Barbara MATIC",
+    "county": "CRO",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Croatia",
+    "county": "CRO",
+    "sport": "Polo Aquático",
+    "medal": "silver",
+    "upperSport": "POLO AQUÁTICO"
+  },
+  {
+    "category": "Dois sem masculino",
+    "athlete": "SINKOVIC/SINKOVIC",
+    "county": "CRO",
+    "sport": "Remo",
+    "medal": "gold",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "49kg feminino",
+    "athlete": "Lena STOJKOVIC",
+    "county": "CRO",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Simples feminino",
+    "athlete": "Donna VEKIC",
+    "county": "CRO",
+    "sport": "Tênis",
+    "medal": "silver",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Carabina de ar 10m masculino",
+    "athlete": "Miran MARICIC",
+    "county": "CRO",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "63.5kg Masculino",
+    "athlete": "Erislandy ALVAREZ BORGES",
+    "county": "CUB",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "80kg Masculino",
+    "athlete": "Arlen LOPEZ CARDONA",
+    "county": "CUB",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "C1 200m feminino",
+    "athlete": "Yarisleidis CIRILO DUBOYS",
+    "county": "CUB",
+    "sport": "Canoagem de Velocidade",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 130kg",
+    "athlete": "Mijain LOPEZ NUNEZ",
+    "county": "CUB",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 50kg",
+    "athlete": "Yusneylis GUZMAN LOPEZ",
+    "county": "CUB",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 67kg",
+    "athlete": "Luis Alberto ORTA SANCHEZ",
+    "county": "CUB",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 97kg",
+    "athlete": "Gabriel Alejandro ROSILLO KINDELAN",
+    "county": "CUB",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminino 76kg",
+    "athlete": "Milaimy de la Carid. MARIN POTRILLE",
+    "county": "CUB",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Acima de 80kg masculino",
+    "athlete": "Rafael ALBA",
+    "county": "CUB",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "3.000m com obstáculos feminino",
+    "athlete": "Winfred YAVI",
+    "county": "BRN",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "400m feminino",
+    "athlete": "Salwa Eid NASER",
+    "county": "BRN",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "102kg Masculino",
+    "athlete": "Gor MINASYAN",
+    "county": "BRN",
+    "sport": "Levantamento de Peso",
+    "medal": "bronze",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Luta livre masculina 97kg",
+    "athlete": "Akhmed TAZHUDINOV",
+    "county": "BRN",
+    "sport": "Luta",
+    "medal": "gold",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Boulder e Lead Feminino",
+    "athlete": "Janja GARNBRET",
+    "county": "SLO",
+    "sport": "Escalada ",
+    "medal": "gold",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "63kg feminino",
+    "athlete": "Andreja LESKI",
+    "county": "SLO",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Kite Masculino",
+    "athlete": "Toni VODISEK",
+    "county": "SLO",
+    "sport": "Vela",
+    "medal": "silver",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Duplas masculinas",
+    "athlete": "LEE/WANG",
+    "county": "TPE",
+    "sport": "Badminton",
+    "medal": "gold",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "57kg Feminino",
+    "athlete": "LIN Yu Ting",
+    "county": "TPE",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "60kg Feminino",
+    "athlete": "WU Shih Yi",
+    "county": "TPE",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "66kg Feminino",
+    "athlete": "CHEN Nien Chin",
+    "county": "TPE",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Barra fixa masculina",
+    "athlete": "TANG Chia-Hung",
+    "county": "TPE",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "59kg Feminino",
+    "athlete": "KUO Hsing-Chun",
+    "county": "TPE",
+    "sport": "Levantamento de Peso",
+    "medal": "bronze",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Skeet masculino",
+    "athlete": "LEE Meng Yuan",
+    "county": "TPE",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Boulder e Lead Feminino",
+    "athlete": "Jessica PILZ",
+    "county": "AUT",
+    "sport": "Escalada ",
+    "medal": "bronze",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "Boulder e Lead Masculino",
+    "athlete": "Jakob SCHUBERT",
+    "county": "AUT",
+    "sport": "Escalada ",
+    "medal": "bronze",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "70kg feminino",
+    "athlete": "Michaela POLLERES",
+    "county": "AUT",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Kite Masculino",
+    "athlete": "Valentin BONTUS",
+    "county": "AUT",
+    "sport": "Vela",
+    "medal": "gold",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Dinghy Misto",
+    "athlete": "VADLAU/MAEHR",
+    "county": "AUT",
+    "sport": "Vela",
+    "medal": "gold",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Espada individual feminina",
+    "athlete": "KONG Man Wai Vivian",
+    "county": "HKG",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Florete individual masculino",
+    "athlete": "CHEUNG Ka Long",
+    "county": "HKG",
+    "sport": "Esgrima",
+    "medal": "gold",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "100m livre feminino",
+    "athlete": "HAUGHEY Siobhan Bernadette",
+    "county": "HKG",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m livre feminino",
+    "athlete": "HAUGHEY Siobhan Bernadette",
+    "county": "HKG",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "50kg Feminino",
+    "athlete": "Aira VILLEGAS",
+    "county": "PHI",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "57kg Feminino",
+    "athlete": "Nesthy PETECIO",
+    "county": "PHI",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Solo masculino",
+    "athlete": "Carlos Edriel YULO",
+    "county": "PHI",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Salto masculino",
+    "athlete": "Carlos Edriel YULO",
+    "county": "PHI",
+    "medal": "gold",
+    "upperSport": ""
+  },
+  {
+    "category": "800m masculino",
+    "athlete": "Djamel SEDJATI",
+    "county": "ALG",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "66kg Feminino",
+    "athlete": "Imane KHELIF",
+    "county": "ALG",
+    "sport": "Boxe",
+    "medal": "gold",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Barras assimétricas femininas",
+    "athlete": "Kaylia NEMOUR",
+    "county": "ALG",
+    "sport": "Ginástica Artística",
+    "medal": "gold",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Simples feminino",
+    "athlete": "Gregoria Mariska TUNJUNG",
+    "county": "INA",
+    "sport": "Badminton",
+    "medal": "bronze",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "Speed Masculino",
+    "athlete": "Veddriq LEONARDO",
+    "county": "INA",
+    "sport": "Escalada ",
+    "medal": "gold",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "73kg Masculino",
+    "athlete": "Rizki JUNIANSYAH",
+    "county": "INA",
+    "sport": "Levantamento de Peso",
+    "medal": "gold",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Solo masculino",
+    "athlete": "Artem DOLGOPYAT",
+    "county": "ISR",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "Competição por equipes geral",
+    "athlete": "Israel",
+    "county": "ISR",
+    "sport": "Ginástica Rítmica",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA RÍTMICA"
+  },
+  {
+    "category": "78kg feminino",
+    "athlete": "Inbar LANIR",
+    "county": "ISR",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "78kg feminino",
+    "athlete": "Raz HERSHKO",
+    "county": "ISR",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "100kg masculino",
+    "athlete": "Peter PALTCHIK",
+    "county": "ISR",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Windsurf Masculino",
+    "athlete": "Tom REUVENY",
+    "county": "ISR",
+    "sport": "Vela",
+    "medal": "gold",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Windsurf Feminino",
+    "athlete": "Sharon KANTOR",
+    "county": "ISR",
+    "sport": "Vela",
+    "medal": "bronze",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "400m feminino",
+    "athlete": "Natalia KACZMAREK",
+    "county": "POL",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "57kg Feminino",
+    "athlete": "Julia SZEREMETA",
+    "county": "POL",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Caiaque Individual Feminino",
+    "athlete": "Klaudia ZWOLINSKA",
+    "county": "POL",
+    "sport": "Canoagem Slalom",
+    "medal": "silver",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "Omnium feminino",
+    "athlete": "Daria PIKULIK",
+    "county": "POL",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Speed Feminino",
+    "athlete": "Aleksandra MIROSLAW",
+    "county": "POL",
+    "sport": "Escalada ",
+    "medal": "gold",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "Speed Feminino",
+    "athlete": "Aleksandra KALUCKA",
+    "county": "POL",
+    "sport": "Escalada ",
+    "medal": "bronze",
+    "upperSport": "ESCALADA"
+  },
+  {
+    "category": "Espada por equipes feminina",
+    "athlete": "Poland",
+    "county": "POL",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Skiff quádruplo masculino",
+    "athlete": "Poland",
+    "county": "POL",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Simples feminino",
+    "athlete": "Iga SWIATEK",
+    "county": "POL",
+    "sport": "Tênis",
+    "medal": "bronze",
+    "upperSport": "TÊNIS"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Poland",
+    "county": "POL",
+    "sport": "Vôlei",
+    "medal": "silver",
+    "upperSport": "VÔLEI"
+  },
+  {
+    "category": "80kg Masculino",
+    "athlete": "Nurbek ORALBAY",
+    "county": "KAZ",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "50kg Feminino",
+    "athlete": "Nazym KYZAIBAY",
+    "county": "KAZ",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Cavalo com alças masculino",
+    "athlete": "Nariman KURBANOV",
+    "county": "KAZ",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "60kg masculino",
+    "athlete": "Yeldos SMETOV",
+    "county": "KAZ",
+    "sport": "Judô",
+    "medal": "gold",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "66kg masculino",
+    "athlete": "Gusman KYRGYZBAYEV",
+    "county": "KAZ",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 77kg",
+    "athlete": "Demeu ZHADRAYEV",
+    "county": "KAZ",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Carabina de ar 10m equipes mistas",
+    "athlete": "Kazakhstan ",
+    "county": "KAZ",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Lançamento de disco masculino",
+    "athlete": "Roje STONA",
+    "county": "JAM",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "100m masculino",
+    "athlete": "Kishane THOMPSON",
+    "county": "JAM",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto em distância masculino",
+    "athlete": "Wayne PINNOCK",
+    "county": "JAM",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto triplo feminino",
+    "athlete": "Shanieka RICKETTS",
+    "county": "JAM",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "110m com barreiras masculino",
+    "athlete": "Rasheed BROADBELL",
+    "county": "JAM",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Arremesso de peso masculino",
+    "athlete": "Rajindra CAMPBELL",
+    "county": "JAM",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x100m masculino",
+    "athlete": "South Africa",
+    "county": "RSA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Lançamento de dardo feminino",
+    "athlete": "Jo-Ane van DYK",
+    "county": "RSA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Cross-country masculino",
+    "athlete": "Alan HATHERLY",
+    "county": "RSA",
+    "sport": "Ciclismo Mountain Bike",
+    "medal": "bronze",
+    "upperSport": "CICLISMO MOUNTAIN BIKE"
+  },
+  {
+    "category": "100m peito feminino",
+    "athlete": "Tatjana SMITH",
+    "county": "RSA",
+    "sport": "Natação",
+    "medal": "gold",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "200m peito feminino",
+    "athlete": "Tatjana SMITH",
+    "county": "RSA",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "South Africa",
+    "county": "RSA",
+    "sport": "Rugby Sevens",
+    "medal": "bronze",
+    "upperSport": "RUGBY SEVENS"
+  },
+  {
+    "category": "Simples masculino",
+    "athlete": "Kunlavut VITIDSARN",
+    "county": "THA",
+    "sport": "Badminton",
+    "medal": "silver",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "66kg Feminino",
+    "athlete": "Janjaem SUWANNAPHENG",
+    "county": "THA",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "61kg Masculino",
+    "athlete": "Theerapong SILACHAI",
+    "county": "THA",
+    "sport": "Levantamento de Peso",
+    "medal": "silver",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "73kg Masculino",
+    "athlete": "Weeraphon WICHUMA",
+    "county": "THA",
+    "sport": "Levantamento de Peso",
+    "medal": "silver",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "49kg Feminino",
+    "athlete": "Surodchana KHAMBAO",
+    "county": "THA",
+    "sport": "Levantamento de Peso",
+    "medal": "bronze",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "49kg feminino",
+    "athlete": "Panipak WONGPATTANAKIT",
+    "county": "THA",
+    "sport": "Taekwondo",
+    "medal": "gold",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Maratona masculina",
+    "athlete": "Tamirat TOLA",
+    "county": "ETH",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "10.000m masculino",
+    "athlete": "Berihu AREGAWI",
+    "county": "ETH",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "800m feminino",
+    "athlete": "Tsige DUGUMA",
+    "county": "ETH",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Maratona feminina",
+    "athlete": "Tigst ASSEFA",
+    "county": "ETH",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Zoe CLAESSENS",
+    "county": "SUI",
+    "sport": "Ciclismo BMX Racing",
+    "medal": "bronze",
+    "upperSport": "CICLISMO BMX RACING"
+  },
+  {
+    "category": "Saltos individual",
+    "athlete": "Steve GUERDAT",
+    "county": "SUI",
+    "sport": "Hipismo",
+    "medal": "silver",
+    "upperSport": "HIPISMO"
+  },
+  {
+    "category": "200m costas masculino",
+    "athlete": "Roman MITYUKOV",
+    "county": "SUI",
+    "sport": "Natação",
+    "medal": "bronze",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Dois sem masculino",
+    "athlete": "ROEOESLI/GULICH",
+    "county": "SUI",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Carabina 3 posições 50m feminino",
+    "athlete": "Chiara LEONE",
+    "county": "SUI",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Carabina de ar 10m feminino",
+    "athlete": "Audrey GOGNIAT",
+    "county": "SUI",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Individual Feminino",
+    "athlete": "Julie DERRON",
+    "county": "SUI",
+    "sport": "Triatlo",
+    "medal": "silver",
+    "upperSport": "TRIATLO"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "HUBERLI/BRUNNER",
+    "county": "SUI",
+    "sport": "Vôlei de Praia",
+    "medal": "bronze",
+    "upperSport": "VÔLEI DE PRAIA"
+  },
+  {
+    "category": "Marcha Atlética 20 km masculina",
+    "athlete": "Brian Daniel PINTADO",
+    "county": "ECU",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "M. de Marcha Atlética Rev. Misto",
+    "athlete": "PINTADO B/MOREJON G",
+    "county": "ECU",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "71kg Feminino",
+    "athlete": "Angie Paola PALACIOS DAJOMES",
+    "county": "ECU",
+    "sport": "Levantamento de Peso",
+    "medal": "bronze",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "81kg Feminino",
+    "athlete": "Neisi Patricia DAJOMES BARRERA",
+    "county": "ECU",
+    "sport": "Levantamento de Peso",
+    "medal": "bronze",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Luta livre feminina 53kg",
+    "athlete": "Lucia Yamileth YEPEZ GUZMAN",
+    "county": "ECU",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Salto triplo masculino",
+    "athlete": "Pedro PICHARDO",
+    "county": "POR",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Madison Masculino",
+    "athlete": "LEITAO/OLIVEIRA",
+    "county": "POR",
+    "sport": "Ciclismo de Pista",
+    "medal": "gold",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "Omnium masculino",
+    "athlete": "Iuri LEITAO",
+    "county": "POR",
+    "sport": "Ciclismo de Pista",
+    "medal": "silver",
+    "upperSport": "CICLISMO DE PISTA"
+  },
+  {
+    "category": "78kg feminino",
+    "athlete": "Patricia SAMPAIO",
+    "county": "POR",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Salto em distância masculino",
+    "athlete": "Miltiadis TENTOGLOU",
+    "county": "GRE",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Salto com vara masculino",
+    "athlete": "Emmanouil KARALIS",
+    "county": "GRE",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Argolas masculinas",
+    "athlete": "Eleftherios PETROUNIAS",
+    "county": "GRE",
+    "sport": "Ginástica Artística",
+    "medal": "bronze",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "90kg masculino",
+    "athlete": "Theodoros TSELIDIS",
+    "county": "GRE",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Luta livre masculina 86kg",
+    "athlete": "Dauren KURUGLIEV",
+    "county": "GRE",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "200m costas masculino",
+    "athlete": "Apostolos CHRISTOU",
+    "county": "GRE",
+    "sport": "Natação",
+    "medal": "silver",
+    "upperSport": "NATAÇÃO"
+  },
+  {
+    "category": "Skiff duplo leve feminino",
+    "athlete": "KONTOU/FITSIOU",
+    "county": "GRE",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Skiff duplo leve masculino",
+    "athlete": "PAPAKONSTA/GKAIDATZIS",
+    "county": "GRE",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Park Masculino",
+    "athlete": "Jose TORRES GIL",
+    "county": "ARG",
+    "sport": "Ciclismo BMX Freestyle",
+    "medal": "gold",
+    "upperSport": "CICLISMO BMX FREESTYLE"
+  },
+  {
+    "category": "Feminino",
+    "athlete": "Argentina",
+    "county": "ARG",
+    "sport": "Hóquei sobre Grama",
+    "medal": "bronze",
+    "upperSport": "HÓQUEI SOBRE GRAMA"
+  },
+  {
+    "category": "Multicasco Misto",
+    "athlete": "MAJDALANI/BOSCO",
+    "county": "ARG",
+    "sport": "Vela",
+    "medal": "silver",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Espada individual masculina",
+    "athlete": "Mohamed ELSAYED",
+    "county": "EGY",
+    "sport": "Esgrima",
+    "medal": "bronze",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "81kg Feminino",
+    "athlete": "Sara AHMED",
+    "county": "EGY",
+    "sport": "Levantamento de Peso",
+    "medal": "silver",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Individual masculino",
+    "athlete": "Ahmed ELGENDY",
+    "county": "EGY",
+    "sport": "Pentatlo Moderno",
+    "medal": "gold",
+    "upperSport": "PENTATLO MODERNO"
+  },
+  {
+    "category": "Sabre individual masculino",
+    "athlete": "Fares FERJANI",
+    "county": "TUN",
+    "sport": "Esgrima",
+    "medal": "silver",
+    "upperSport": "ESGRIMA"
+  },
+  {
+    "category": "Até 80kg masculino",
+    "athlete": "Firas KATOUSSI",
+    "county": "TUN",
+    "sport": "Taekwondo",
+    "medal": "gold",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "58kg masculino",
+    "athlete": "Mohamed Khalil JENDOUBI",
+    "county": "TUN",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "200m masculino",
+    "athlete": "Letsile TEBOGO",
+    "county": "BOT",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Revezamento 4x400m masculino",
+    "athlete": "Botswana",
+    "county": "BOT",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 130kg",
+    "athlete": "Yasmani ACOSTA FERNANDEZ",
+    "county": "CHI",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Skeet Feminino",
+    "athlete": "Francisca CROVETTO CHADID",
+    "county": "CHI",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "100m feminino",
+    "athlete": "Julien ALFRED",
+    "county": "LCA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "200m feminino",
+    "athlete": "Julien ALFRED",
+    "county": "LCA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "10.000m masculino",
+    "athlete": "Joshua CHEPTEGEI",
+    "county": "UGA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "3.000m com obstáculos feminino",
+    "athlete": "Peruth CHEMUTAI",
+    "county": "UGA",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "400m feminino",
+    "athlete": "Marileidy PAULINO",
+    "county": "DOM",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "51kg Masculino",
+    "athlete": "Yunior ALCANTARA REYES",
+    "county": "DOM",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "80kg Masculino",
+    "athlete": "Cristian Javier PINALES",
+    "county": "DOM",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Fossa olímpica feminina",
+    "athlete": "Adriana RUANO OLIVA",
+    "county": "GUA",
+    "sport": "Tiro Esportivo",
+    "medal": "gold",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Fossa olímpica masculino",
+    "athlete": "Jean Pierre BROL CARDENAS",
+    "county": "GUA",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "3.000m com obstáculos masculino",
+    "athlete": "Soufiane EL BAKKALI",
+    "county": "MAR",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Morocco",
+    "county": "MAR",
+    "sport": "Futebol",
+    "medal": "bronze",
+    "upperSport": "FUTEBOL"
+  },
+  {
+    "category": "Salto triplo feminino",
+    "athlete": "Thea LAFOND",
+    "county": "DMA",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Lançamento de dardo masculino",
+    "athlete": "Arshad NADEEM",
+    "county": "PAK",
+    "sport": "Atletismo",
+    "medal": "gold",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "50kg Feminino",
+    "athlete": "Buse Naz CAKIROGLU",
+    "county": "TUR",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "54kg Feminino",
+    "athlete": "Hatice AKBAS",
+    "county": "TUR",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "57kg Feminino",
+    "athlete": "Esra YILDIZ KAHRAMAN",
+    "county": "TUR",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Luta livre feminina 68kg",
+    "athlete": "Buse CAVUSOGLU TOSUN",
+    "county": "TUR",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 125kg",
+    "athlete": "Taha AKGUL",
+    "county": "TUR",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "67kg feminino",
+    "athlete": "Nafia KUS AYDIN",
+    "county": "TUR",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Equipes masculinas",
+    "athlete": "Türkiye",
+    "county": "TUR",
+    "sport": "Tiro com Arco",
+    "medal": "bronze",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Pistola de ar 10m equipes mistas",
+    "athlete": "Türkiye",
+    "county": "TUR",
+    "sport": "Tiro Esportivo",
+    "medal": "silver",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "71kg Masculino",
+    "athlete": "Marco Alonso VERDE ALVAREZ",
+    "county": "MEX",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "63kg feminino",
+    "athlete": "Prisca AWITI ALCARAZ",
+    "county": "MEX",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Trampolim 3m sincronizado masculino",
+    "athlete": "CELAYA/OLVERA",
+    "county": "MEX",
+    "sport": "Saltos Ornamentais",
+    "medal": "silver",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Trampolim 3m masculino",
+    "athlete": "Osmar OLVERA IBARRA",
+    "county": "MEX",
+    "sport": "Saltos Ornamentais",
+    "medal": "bronze",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Equipes femininas",
+    "athlete": "Mexico",
+    "county": "MEX",
+    "sport": "Tiro com Arco",
+    "medal": "bronze",
+    "upperSport": "TIRO COM ARCO"
+  },
+  {
+    "category": "Salto masculino",
+    "athlete": "Artur DAVTYAN",
+    "county": "ARM",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "102kg Masculino",
+    "athlete": "Varazdat LALAYAN",
+    "county": "ARM",
+    "sport": "Levantamento de Peso",
+    "medal": "silver",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 97kg",
+    "athlete": "Artur ALEKSANYAN",
+    "county": "ARM",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 77kg",
+    "athlete": "Malkhas AMOYAN",
+    "county": "ARM",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Barra fixa masculina",
+    "athlete": "Angel BARAJAS",
+    "county": "COL",
+    "sport": "Ginástica Artística",
+    "medal": "silver",
+    "upperSport": "GINÁSTICA ARTÍSTICA"
+  },
+  {
+    "category": "71kg Feminino",
+    "athlete": "Mari Leivis SANCHEZ",
+    "county": "COL",
+    "sport": "Levantamento de Peso",
+    "medal": "silver",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "89kg Masculino",
+    "athlete": "Yeison LOPEZ",
+    "county": "COL",
+    "sport": "Levantamento de Peso",
+    "medal": "silver",
+    "upperSport": "LEVANTAMENTO DE PESO"
+  },
+  {
+    "category": "Luta livre feminino 76kg",
+    "athlete": "Tatiana RENTERIA RENTERIA",
+    "county": "COL",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "57kg Masculino",
+    "athlete": "Munarbek SEIITBEK UULU",
+    "county": "KGZ",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Luta livre feminina 68kg",
+    "athlete": "Meerim ZHUMANAZAROVA",
+    "county": "KGZ",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 60kg",
+    "athlete": "Zholaman SHARSHENBEKOV",
+    "county": "KGZ",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 77kg",
+    "athlete": "Akzhol MAKHMUDOV",
+    "county": "KGZ",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 97kg",
+    "athlete": "Uzur DZHUZUPBEKOV",
+    "county": "KGZ",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 62kg",
+    "athlete": "Aisuluu TYNYBEKOVA",
+    "county": "KGZ",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "54kg Feminino",
+    "athlete": "PANG Cholmi",
+    "county": "PRK",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Luta Greco-Romana masculina 60kg",
+    "athlete": "RI Se Ung",
+    "county": "PRK",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre feminina 53kg",
+    "athlete": "CHOE Hyo Gyong",
+    "county": "PRK",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Plataforma 10m sincronizada feminino",
+    "athlete": "JO/KIM",
+    "county": "PRK",
+    "sport": "Saltos Ornamentais",
+    "medal": "silver",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Plataforma 10m feminino",
+    "athlete": "KIM Mi Rae",
+    "county": "PRK",
+    "sport": "Saltos Ornamentais",
+    "medal": "bronze",
+    "upperSport": "SALTOS ORNAMENTAIS"
+  },
+  {
+    "category": "Duplas mistas",
+    "athlete": "RI/KIM",
+    "county": "PRK",
+    "sport": "Tênis de Mesa",
+    "medal": "silver",
+    "upperSport": "TÊNIS DE MESA"
+  },
+  {
+    "category": "Lançamento de disco masculino",
+    "athlete": "Mykolas ALEKNA",
+    "county": "LTU",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Lithuania",
+    "county": "LTU",
+    "sport": "Basquete 3x3",
+    "medal": "bronze",
+    "upperSport": "BASQUETE 3X3"
+  },
+  {
+    "category": "B-Girls",
+    "athlete": "NICKA",
+    "county": "LTU",
+    "sport": "Breaking",
+    "medal": "silver",
+    "upperSport": "BREAKING"
+  },
+  {
+    "category": "Skiff simples feminino",
+    "athlete": "Viktorija SENKUTE",
+    "county": "LTU",
+    "sport": "Remo",
+    "medal": "bronze",
+    "upperSport": "REMO"
+  },
+  {
+    "category": "Lançamento de dardo masculino",
+    "athlete": "Neeraj CHOPRA",
+    "county": "IND",
+    "sport": "Atletismo",
+    "medal": "silver",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "India",
+    "county": "IND",
+    "sport": "Hóquei sobre Grama",
+    "medal": "bronze",
+    "upperSport": "HÓQUEI SOBRE GRAMA"
+  },
+  {
+    "category": "Luta livre masculina 57kg",
+    "athlete": "Aman AMAN",
+    "county": "IND",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Carabina três posições 50m masculino",
+    "athlete": "Swapnil KUSALE",
+    "county": "IND",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Pistola de ar 10m feminino",
+    "athlete": "Manu BHAKER",
+    "county": "IND",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "Pistola de ar 10m equipes mistas",
+    "athlete": "India 1",
+    "county": "IND",
+    "sport": "Tiro Esportivo",
+    "medal": "bronze",
+    "upperSport": "TIRO ESPORTIVO"
+  },
+  {
+    "category": "C1 1000m masculino",
+    "athlete": "Serghei TARNOVSCHI",
+    "county": "MDA",
+    "sport": "Canoagem de Velocidade",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM DE VELOCIDADE"
+  },
+  {
+    "category": "66kg masculino",
+    "athlete": "Denis VIERU",
+    "county": "MDA",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "73kg masculino",
+    "athlete": "Adil OSMANOV",
+    "county": "MDA",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Luta livre feminina 57kg",
+    "athlete": "Anastasia NICHITA",
+    "county": "MDA",
+    "sport": "Luta",
+    "medal": "silver",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "52kg feminino",
+    "athlete": "Distria KRASNIQI",
+    "county": "KOS",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "63kg feminino",
+    "athlete": "Laura FAZLIU",
+    "county": "KOS",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Dinghy Masculino",
+    "athlete": "Pavlos KONTIDES",
+    "county": "CYP",
+    "sport": "Vela",
+    "medal": "silver",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Masculino",
+    "athlete": "Fiji",
+    "county": "FIJ",
+    "sport": "Rugby Sevens",
+    "medal": "silver",
+    "upperSport": "RUGBY SEVENS"
+  },
+  {
+    "category": "68kg masculino",
+    "athlete": "Zaid KAREEM",
+    "county": "JOR",
+    "sport": "Taekwondo",
+    "medal": "silver",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "Até 48kg feminino",
+    "athlete": "Baasankhuu BAVUUDORJ",
+    "county": "MGL",
+    "sport": "Judô",
+    "medal": "silver",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "75kg Feminino",
+    "athlete": "Atheyna Bibeichi BYLON",
+    "county": "PAN",
+    "sport": "Boxe",
+    "medal": "silver",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "92kg Masculino",
+    "athlete": "Davlat BOLTAEV",
+    "county": "TJK",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "81kg masculino",
+    "athlete": "Somon MAKHMADBEKOV",
+    "county": "TJK",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "100kg masculino",
+    "athlete": "Temur RAKHIMOV",
+    "county": "TJK",
+    "sport": "Judô",
+    "medal": "bronze",
+    "upperSport": "JUDÔ"
+  },
+  {
+    "category": "Luta livre masculina 65kg",
+    "athlete": "Islam DUDAEV",
+    "county": "ALB",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Luta livre masculina 74kg",
+    "athlete": "Chermen VALIEV",
+    "county": "ALB",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Lançamento de dardo masculino",
+    "athlete": "Anderson PETERS",
+    "county": "GRN",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Decatlo masculino",
+    "athlete": "Lindon VICTOR",
+    "county": "GRN",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Simples masculino",
+    "athlete": "Zii Jia LEE",
+    "county": "MAS",
+    "sport": "Badminton",
+    "medal": "bronze",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "Duplas masculinas",
+    "athlete": "CHIA/SOH",
+    "county": "MAS",
+    "sport": "Badminton",
+    "medal": "bronze",
+    "upperSport": "BADMINTON"
+  },
+  {
+    "category": "100m com barreiras feminino",
+    "athlete": "Jasmine CAMACHO-QUINN",
+    "county": "PUR",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Luta livre masculina 65kg",
+    "athlete": "Sebastian C RIVERA",
+    "county": "PUR",
+    "sport": "Luta",
+    "medal": "bronze",
+    "upperSport": "LUTA"
+  },
+  {
+    "category": "Acima de 80kg masculino",
+    "athlete": "Cheick Sallah CISSE",
+    "county": "CIV",
+    "sport": "Taekwondo",
+    "medal": "bronze",
+    "upperSport": "TAEKWONDO"
+  },
+  {
+    "category": "51kg Masculino",
+    "athlete": "David de PINA",
+    "county": "CPV",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "75kg Feminino",
+    "athlete": "Cindy Winner DJANKEU NGAMBA",
+    "county": "EOR",
+    "sport": "Boxe",
+    "medal": "bronze",
+    "upperSport": "BOXE"
+  },
+  {
+    "category": "Dinghy Masculino",
+    "athlete": "Stefano PESCHIERA",
+    "county": "PER",
+    "sport": "Vela",
+    "medal": "bronze",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Salto em altura masculino",
+    "athlete": "Mutaz Essa BARSHIM",
+    "county": "QAT",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  },
+  {
+    "category": "Kite Masculino",
+    "athlete": "Maximilian MAEDER",
+    "county": "SGP",
+    "sport": "Vela",
+    "medal": "bronze",
+    "upperSport": "VELA"
+  },
+  {
+    "category": "Canoa Individual Masculina",
+    "athlete": "Matej BENUS",
+    "county": "SVK",
+    "sport": "Canoagem Slalom",
+    "medal": "bronze",
+    "upperSport": "CANOAGEM SLALOM"
+  },
+  {
+    "category": "400m masculino",
+    "athlete": "Muzala SAMUKONGA",
+    "county": "ZAM",
+    "sport": "Atletismo",
+    "medal": "bronze",
+    "upperSport": "ATLETISMO"
+  }
+]

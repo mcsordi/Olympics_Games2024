@@ -1,7 +1,6 @@
 /* eslint-disable react/prop-types */
-
 import { TurnOnIcons } from "../../context/context";
-
+import { FaMedal } from "react-icons/fa";
 function Card({
   children,
   imageCard,
@@ -21,6 +20,8 @@ function Card({
   flexPlace,
   flexAlias,
   flexExpandIcons,
+  flexWrap,
+  displayMedal,
 }) {
   const { expand, useIcon, showIcon } = TurnOnIcons(configICon);
 
@@ -39,19 +40,19 @@ function Card({
             className={`border border-primary-700 w-16 h-11 relative  ${flexImageCard}`}
             src={`${imageCard}.png`}
           ></img>
-
-          <h2
-            className={`w-full font-poppins  max-h-full justify-start text-start
+          <div className={` flex flex-col relative w-full  ${flexWrap}`}>
+            <h2
+              className={`w-full font-poppins  max-h-full justify-start text-start
               relative flex-wrap break-normal comp:left-0 sm:flex ${flexTextCard} `}
-          >
-            {textCard}
-          </h2>
-          <h2
-            className={`w-full font-medium  relative flex-wrap  sm:hidden ${flexAlias}`}
-          >
-            {alias}
-          </h2>
-
+            >
+              {textCard}
+            </h2>
+            <h2
+              className={`w-full font-medium whitespace-nowrap smart460:whitespace-normal relative flex-wrap  ${flexAlias}`}
+            >
+              {alias}
+            </h2>
+          </div>
           <div
             className={`gap-2 font-notojp  flex items-center flex-row  w-72 justify-around smartPhone:gap-4 ${flexMedals} `}
           >
@@ -61,6 +62,7 @@ function Card({
             <strong>{total}</strong>
           </div>
           <div className={`${flexExpandIcons}`}>{useIcon(configICon)}</div>
+          <div className={`${displayMedal}`}>{<FaMedal />}</div>
         </div>
       </section>
       {showIcon == true || expand == true ? children : ""}

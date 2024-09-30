@@ -23,14 +23,14 @@ export function TurnOnIcons() {
         onClick={(evt) => {
           evt.target ? setShowIcon(false) : setShowIcon(true);
         }}
-        className={`${configICon}`}
+        className={`hover:cursor-pointer ${configICon}`}
       />
     ) : (
       <LuChevronDownSquare
         onClick={(evt) => {
           evt.target ? setShowIcon(true) : setShowIcon(false);
         }}
-        className={`${configICon}`}
+        className={`hover:cursor-pointer ${configICon}`}
       />
     );
   };

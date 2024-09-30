@@ -50,18 +50,7 @@ function Nav(props) {
           currentPage == "/atletas" ? "text-primary-600" : ""
         } cursor-pointer`}
       >
-        atletas
-      </Link>
-      <Link
-        onClick={(evt) => {
-          changeColor(evt);
-        }}
-        to="/buscar"
-        className={`${
-          currentPage == "/buscar" ? "text-primary-600" : ""
-        } cursor-pointer`}
-      >
-        buscar
+        Atletas
       </Link>
     </nav>
   );

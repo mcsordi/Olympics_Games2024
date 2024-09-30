@@ -21,9 +21,11 @@ function Sports() {
           flexImageCard={"h-16 w-16"}
           key={idx}
           textCard={sport}
-          imageCard={`../../../src/pages/Sports/logos/${sport.toLocaleUpperCase()}`}
+          imageCard={`../../../src/images/logos/${sport.toLocaleUpperCase()}`}
           flexExpandIcons={`text-2xl`}
-          flexTextCard={`flex text-sm flex-wrap max-w-12 smart460:text-lg smart460:max-w-full  smart460:flex-nowrap w-16 sm:text-xl comp:max-w-full`}
+          flexTextCard={`flex text-sm flex-wrap max-w-12 smart460:text-lg smart460:max-w-full  
+            smart460:flex-nowrap w-16 sm:text-xl comp:max-w-full`}
+          displayMedal={`hidden`}
         >
           <div
             className="rounded flex pt-5 mb-6 border-y-black  smart460:border-y-primary-700 
@@ -44,14 +46,16 @@ function Sports() {
                   displayCard={``}
                   hiddenCard={`min-w-full mt-0`}
                   flexTextCard={`hidden comp:flex`}
+                  flexAlias={`sm:hidden`}
                   textCard={country.nameCountry}
                   alias={country.country}
-                  imageCard={`../../../src/images/${country.country}`}
+                  imageCard={`../../../src/images/countries/${country.country}`}
                   configICon={`hidden`}
                   gold={country.gold}
                   silver={country.silver}
                   bronze={country.bronze}
                   total={country.total}
+                  displayMedal={`hidden`}
                 />
               ) : (
                 ""

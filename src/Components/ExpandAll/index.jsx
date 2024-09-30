@@ -10,7 +10,7 @@ function ExpandAll({ cursor }) {
   const minusIcon = (Icons) => {
     return (
       <Icons
-        className={`${cursor}`}
+        className={`hover:cursor-pointer ${cursor}`}
         onClick={() => {
           return expand == true ? setExpand(false) : setExpand(true);
         }}

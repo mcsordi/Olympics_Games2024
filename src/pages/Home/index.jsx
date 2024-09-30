@@ -8,7 +8,7 @@ function Home() {
   };
   return (
     <div
-      className=" mb-3 mt-28 h-full w-full flex-row items-center justify-center 
+      className="  mb-3 mt-28 h-full w-full flex-row items-center justify-center 
    flex flex-wrap comp:flex-row comp:mt-8"
     >
       <LineUpMedal display={"flex"} />
@@ -19,11 +19,11 @@ function Home() {
           <Card
             key={index}
             textCard={countryOrPlace(country.countryPlace, 1)}
-            imageCard={`../../../src/images/${country.acron}`}
+            imageCard={`../../../src/images/countries/${country.acron}`}
             countryPlace={`${countryOrPlace(country.countryPlace, 0)}`}
             flexPlace={`flex`}
             flexTextCard={`${evenFlexText} hidden`}
-            flexAlias={`comp:hidden`}
+            flexAlias={`sm:hidden comp:hidden`}
             displayCard={evenFlexCard}
             flexExpandIcons={`hidden`}
             gold={country.gold}
@@ -32,6 +32,8 @@ function Home() {
             total={country.total}
             flexMedals={`${evenFlexCard}`}
             alias={country.acron}
+            flexWrap={`flex-wrap text-wrap`}
+            displayMedal={`hidden`}
           />
         );
       })}
@@ -39,6 +41,7 @@ function Home() {
         flexImageCard={`hidden`}
         flexExpandIcons={`hidden`}
         hiddenCard={"hidden comp:flex border-0 comp:bg-primary-100"}
+        displayMedal={`hidden`}
       />
     </div>
   );
