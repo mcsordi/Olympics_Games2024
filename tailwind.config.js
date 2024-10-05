@@ -22,7 +22,7 @@ export default {
         poppins: ["Poppins", "sans-serif"],
       },
       backgroundImage: {
-        logo: `url('./src/Components/Header/olympics.svg')`,
+        logo: `url('./olympics.svg')`,
       },
       minWidth: {
         smm: `@media(min-width:360px)`,
