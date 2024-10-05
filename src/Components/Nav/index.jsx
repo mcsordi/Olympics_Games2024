@@ -3,7 +3,7 @@ import { useLocation } from "react-router-dom";
 function Nav(props) {
   const currentPage = useLocation().pathname;
 
-  const changeColor = (evt) => {
+  const changeMedalColor = (evt) => {
     evt.target.classList = "text-primary-600";
     const links = [...document.querySelectorAll("a.text-primary-600")];
     links.map((el) => {
@@ -21,7 +21,7 @@ function Nav(props) {
     >
       <Link
         onClick={(evt) => {
-          changeColor(evt);
+          changeMedalColor(evt);
         }}
         to="/"
         className={`${
@@ -32,7 +32,7 @@ function Nav(props) {
       </Link>
       <Link
         onClick={(evt) => {
-          changeColor(evt);
+          changeMedalColor(evt);
         }}
         to="/esportes"
         className={`${
@@ -43,7 +43,7 @@ function Nav(props) {
       </Link>
       <Link
         onClick={(evt) => {
-          changeColor(evt);
+          changeMedalColor(evt);
         }}
         to="/atletas"
         className={`${
